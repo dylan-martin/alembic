@@ -2,7 +2,7 @@
 layout: page
 title: College Connect
 ---
-Adapted from Dylan Martin's [original project proposal](https://dylan-martin.github.io/indproposal/)
+Adapted from Dylan Martin's [original project proposal](https://dylan-martin.github.io/indproposal/).
 
 ## Motivation
 
