@@ -1,8 +1,8 @@
 ---
 layout: page
 title: College Connect
-subtitle: Tinder for the College Search
 ---
+Adapted from Dylan Martin's [original project proposal](https://dylan-martin.github.io/indproposal/)
 
 # Motivation
 
