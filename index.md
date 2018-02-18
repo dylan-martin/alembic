@@ -3,7 +3,7 @@ title: College Connect
 feature_text: |
  ## College Connect
  A platform to connect college applicants and students.
- ###### Image Source: [https://www.usnews.com/best-colleges/williams-college-2229](https://www.usnews.com/best-colleges/williams-college-2229)
+ <sub> Image Source: [https://www.usnews.com/best-colleges/williams-college-2229](https://www.usnews.com/best-colleges/williams-college-2229) </sub>
 feature_image: "img/williams.png"
 ---
 
