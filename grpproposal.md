@@ -19,7 +19,7 @@ We want to improve the college search process by facilitating person-to-person d
 
 ## Analysis
 
-While the current process of learning about colleges is flawed, some of its elements need to be incorporated into this platform to effectively serve the applicants using it.  Much of the information provided by Admissions Offices and other school administrators--things like financial aid guidance--is crucial to the college search process and likely cannot be effectively communicated by current college students (see figure 2).
+While the current process of learning about colleges is flawed, some of its elements need to be incorporated into this platform to effectively serve the applicants using it.  Much of the information provided by Admissions Offices and other school administrators--things like financial aid guidance--is crucial to the college search process and likely cannot be effectively communicated by current college students (see Figure 2).
 
 ![Cost Estimator](img/admissionsfa.png)
 *Figure 2.  A cost estimator on the Williams College Admissions Office website ( [https://admission.williams.edu/costestimator/](https://admission.williams.edu/costestimator/) ).  Some information provided by Admissions Offices cannot be replaced by conversations.*
