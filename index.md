@@ -11,4 +11,4 @@ We are moving the college search process into the hands of students.  Read our [
 
 ## Who Are We?
 
-[Dylan Martin](dylan-martin.github.io) |  [Julian Vera](verajulian.github.io) | [Wei Luo](wl5.github.io)
+[Dylan Martin](https://dylan-martin.github.io) |  [Julian Vera](https://verajulian.github.io) | [Wei Luo](https://wl5.github.io/)
