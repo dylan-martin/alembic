@@ -5,7 +5,7 @@ feature_text: |
  A platform to connect college applicants and students.
  
  
- <font size="6"> Image Source: [https://www.usnews.com/best-colleges/williams-college-2229](https://www.usnews.com/best-colleges/williams-college-2229) </font>
+ <font size="4"> Image Source: <a href = "https://www.usnews.com/best-colleges/williams-college-2229">https://www.usnews.com/best-colleges/williams-college-2229</a> </font>
 feature_image: "img/williams.png"
 ---
 
