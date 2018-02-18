@@ -1,4 +1,7 @@
-# Team Contract
+---
+title: Team Contract
+layout: page
+---
 
 ## Guiding Principles
 Our key guiding principle is simple: be a team player.  This incorporates a wide variety of behaviors which center on the goal of making the College Connect team a comfortable and productive space for everyone involved.  We expect each team member to respect and thoughtfully consider other's ideas and opinions.  We additionally expect that all members of the team will make every effort to accommodate their teammates' schedules and demands.  We want to preserve flexibility in our scheduling and planning as much as possible so that we can effectively navigate the hectic lives of each team member, and we can only do this if everyone commits to working collaboratively and respectfully.  Our main objective is to design the best product possible, and we know that this can only happen if we work effectively as a team.
