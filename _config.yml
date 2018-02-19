@@ -21,6 +21,7 @@ exclude:
 - alembic-jekyll-theme.gemspec
 
 # 2. Installed Gems
+
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
@@ -88,6 +89,9 @@ navigation_header:
   Home: /
   Project Proposal: /grpproposal/
   Team Contract: /contract/
+  
+navigation_footer:
+
  
 
 
