@@ -11,6 +11,3 @@ feature_image: "img/williams.png"
 
 We are moving the college search process into the hands of students.  Read our [project proposal](grpproposal) to learn more.
 
-## Who Are We?
-
-[Dylan Martin](https://dylan-martin.github.io) |  [Julian Vera](https://verajulian.github.io) | [Wei Luo](https://wl5.github.io/)
