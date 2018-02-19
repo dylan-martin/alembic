@@ -92,8 +92,9 @@ navigation_header:
   Team Contract: /contract/
   
 navigation_footer:
-  Made by: ""
-  Wei Luo: "https://wl5.github.io/"
+  Template by David Darnes : "https://github.com/daviddarnes"
+  
+  | Wei Luo: "https://wl5.github.io/"
   Dylan Martin: "https://dylan-martin.github.io/"
   Julian Vera: "https://verajulian.github.io/"
  
