@@ -10,13 +10,13 @@ Our key guiding principle is simple: be a team player.  This incorporates a wide
 The essential purpose of our team is to work collaboratively and produce a design for College Connect that is both aesthetically and functionally pleasing. 
 
 ## Group Roles
-Member roles are going to be skill-based. Depending on the task at hand, members will discuss their strengths and weaknesses, dividing work accordingly.
+Member roles will be skill-based and determined when tasks are assigned. Depending on the task at hand, members will discuss their strengths and weaknesses, and divide work accordingly to match our division of labor plan.
 
 ## Division of Labor
 Work will be divided equally among us. We plan on dividing work when it is assigned.  Our priority will be ensuring that each group member spends roughly the same amount of time outside of class (as a team or individually) working on a particular assignment.  We will consider relative ability of group members, the size of an assignment, and any other relevant factors when dividing work to divide work as evenly as possible.  In extenuating circumstances, we will do our best to accommodate our teammates' needs and assign a reasonable work load.
 
 ## Team Plan
-Between tasks the group will: meet, discuss the necessary milestone, break the milestone into parts and divide work as stated above.
+Between tasks the group will: meet, discuss the ultimate goal, break that goal into milestones into parts and divide work as stated above.
 
 ## Meeting Management
 Our weekly meetings will be on Wednesdays, 1:00 to 1:30 pm.  Any group member can propose to add meeting times, and the group will vote to decide if the proposal passes.   Attendence is required for all members, unless special circumstances arise.  All group members are expected to arrive on time.  Everyone is expected to have a positive attitude, and should be excited for work.  During a meeting, anyone can re-adjust the task focus if we run off-track.  Decisions will be made by voting.  There will be no ties, since we have three members.  If two members have conflicting ideas, the third person will break the tie via voting.
