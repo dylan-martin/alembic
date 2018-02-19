@@ -38,7 +38,8 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 #twitter:
 #  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: CollegeConnect # jekyll-seo-tag > default author
+author: CollegeConnect, Template by "https://github.com/daviddarnes"
+   # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: College Connect # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
@@ -92,9 +93,7 @@ navigation_header:
   Team Contract: /contract/
   
 navigation_footer:
-  Template by David Darnes : "https://github.com/daviddarnes"
-  
-  | Wei Luo: "https://wl5.github.io/"
+  Wei Luo: "https://wl5.github.io/"
   Dylan Martin: "https://dylan-martin.github.io/"
   Julian Vera: "https://verajulian.github.io/"
  
