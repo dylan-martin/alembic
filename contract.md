@@ -10,13 +10,13 @@ Our key guiding principle is simple: be a team player.  This incorporates a wide
 The essential purpose of our team is to work collaboratively and produce a design for College Connect that is both aesthetically and functionally pleasing. 
 
 ## Group Roles
-WRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITE
+Member roles are going to be skill-based. Depending on the task at hand, members will discuss their strengths and weaknesses, dividing work accordingly.
 
 ## Division of Labor
 Work will be divided equally among us. We plan on dividing work when it is assigned.  Our priority will be ensuring that each group member spends roughly the same amount of time outside of class (as a team or individually) working on a particular assignment.  We will consider relative ability of group members, the size of an assignment, and any other relevant factors when dividing work to divide work as evenly as possible.  In extenuating circumstances, we will do our best to accommodate our teammates' needs and assign a reasonable work load.
 
 ## Team Plan
-WRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITE
+Between tasks the group will: meet, discuss the necessary milestone, break the milestone into parts and divide work as stated above.
 
 ## Meeting Management
 Our weekly meetings will be on Wednesdays, 1:00 to 1:30 pm.  Any group member can propose to add meeting times, and the group will vote to decide if the proposal passes.   Attendence is required for all members, unless special circumstances arise.  All group members are expected to arrive on time.  Everyone is expected to have a positive attitude, and should be excited for work.  During a meeting, anyone can re-adjust the task focus if we run off-track.  Decisions will be made by voting.  There will be no ties, since we have three members.  If two members have conflicting ideas, the third person will break the tie via voting.
@@ -25,7 +25,7 @@ Our weekly meetings will be on Wednesdays, 1:00 to 1:30 pm.  Any group member ca
 All work should be fully documented.  We will be using GitHub as a sharing tool, and use either in-person or online communication.  All changes should be recorded either by informing the group, or recorded as commit descriptions on GitHub.  We will inform each other both before and after we make significant changes.  For larger assignments, we will establish particular checkpoints during our weekly meetings at which each member should update the team.  In the instance that a group member cannot complete their assigned work, we expect that they will communicate this as soon as possible to the rest of the team so that we can make a plan to resolve this issue.
 
 ## Rewards and Punishments
-WRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITE
+All members will need to be committed to this project. Thus, our reward for collective effort will be a good product/design. However, if we slack and do not produce good work, our respective punishment will be a poor product/design.  
 
 ## Follow-up
 We will revisit revisions of our contract every three weeks, or whenever a group member feels appropriate.  A team member can call attention to issues that arise that are not covered under the contract by direct communication, either via in-person discussion or online messages.  A revision will be made if more than half of the group agree.  
