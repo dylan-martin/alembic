@@ -2,7 +2,7 @@
 layout: page
 title: Brainstorming Sketches
 ---
-*Wei's Sketches
+Wei's Sketches
 
 ![Wei's Sketches](/img/brain2.png)
 
