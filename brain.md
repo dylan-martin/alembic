@@ -13,3 +13,11 @@ Wei's Sketches
 Dylan's Sketches
 
 ![Dylan's Sketches](/img/brain1.png)
+
+
+
+
+
+Julian's Sketches
+
+![Julian's Sketches](/img/brain3.png)
