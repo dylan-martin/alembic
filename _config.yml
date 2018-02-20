@@ -91,6 +91,7 @@ navigation_header:
   Home: /
   Project Proposal: /grpproposal/
   Team Contract: /contract/
+  Brainstorming: /brain/
   
 navigation_footer:
   Template by David Darnes                                            : "https://github.com/daviddarnes"
