@@ -91,7 +91,9 @@ navigation_header:
   Home: /
   Project Proposal: /grpproposal/
   Team Contract: /contract/
-  Brainstorming: /brain/
+  Project:
+   -Brainstorming: /brain/
+   -Contextual Inquiry: /ci/
   
 navigation_footer:
   Template by David Darnes                                            : "https://github.com/daviddarnes"
