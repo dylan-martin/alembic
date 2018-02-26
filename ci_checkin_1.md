@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Describe your first inquiry:
-For our first contextual inquiry we observed a current Williams senior, Vinny<sup>1</sup>, talking to his cousin (via Skype), who is applying to the Williams class of 2022, about Williams and the college search process.  Vinny plays rugby on campus and has been involved with sketch comedy groups.  He does not have any formal capacity in which he represents the college to applicants, but rather described his involvment as "casual conversations with relatives and friends."
+For our first contextual inquiry we observed a current Williams senior, Vinny<sup>1</sup>, talking to his cousin (via Skype), who is applying to the Williams class of 2022, about Williams and the college search process.  Vinny plays rugby on campus and has been involved with sketch comedy groups.  He does not have any formal capacity in which he represents the college to applicants, but rather described his involvement as "casual conversations with relatives and friends."
 
 ## What did you learn?
 
