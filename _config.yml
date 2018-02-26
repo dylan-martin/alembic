@@ -93,6 +93,7 @@ navigation_header:
   Team Contract: /contract/
   Brainstorming: /brain/
   Contextual Inquiry: /ci/
+  CI Check-In: /ci_checkin_1/
   
 navigation_footer:
   Template by David Darnes                                            : "https://github.com/daviddarnes"
