@@ -3,8 +3,7 @@ title: Contextual Inquiry Review
 layout: page
 ---
 
-SUMMARY OF KEY FINDINGS / TAKEAWAYS
-WRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITEWRITE
+In our contextual inquiry process, we had the opportunity to learn about three of our key stakeholders--college applicants, college students, and admissions officers.  Each of these user segments will use College Connect in fundamentally different ways and to accomplish differing tasks.  However, across our inquiries, we observed three key common user requirements: 1) a comfortable and casual environment for conversations 2) a trustworthy source of information that is not biased by interest in the college and 3) a shared interest from all users in our platform being a useful and robust source for college information.
 
 ## Participants
 
