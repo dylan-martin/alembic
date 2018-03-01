@@ -33,12 +33,19 @@ What tasks do they now perform?
 Prospective students either go to someone they already know for recommendations, or attend information sessions (campus tours) / visit college websites for general information. 
 
 What tasks are desired?
+
 Creating an account/profile
+
 Personalization of account
+
 Communication between high school and college students
+
 Ranking of schools
+
 Deciding whether they are considering a college
+
 Personal messaging
+
 Writing on forums
 
 How are the tasks learned?
