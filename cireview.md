@@ -30,31 +30,37 @@ Who is going to use the design?
 Prospective and current college students.
 
 What tasks do they now perform?
-Prospective students either go to someone they already know for recommendations, or attend information sessions / visit college websites for general information.  WRITEWRITEWRITEWRITEWRITE
+Prospective students either go to someone they already know for recommendations, or attend information sessions (campus tours) / visit college websites for general information. 
 
 What tasks are desired?
-WRITEWRITEWRITEWRITEWRITE
+Creating an account/profile
+Personalization of account
+Communication between high school and college students
+Ranking of schools
+Deciding whether they are considering a college
+Personal messaging
+Writing on forums
 
 How are the tasks learned?
-WRITEWRITEWRITEWRITEWRITE
+Through using the website and reading FAQs. If the design is good, this should be intuitive for the user.
 
 Where are the tasks performed?
-WRITEWRITEWRITEWRITEWRITE
+On a computer, generally in a dorm or house.
 
 What is the relationship between the person and data?
-WRITEWRITEWRITEWRITEWRITE
+We will store user information - their ranking of schools, profile - including who they have talked to and what was said so a user can see it later.
 
 What other tools does the person have?
-WRITEWRITEWRITEWRITEWRITE
+Their phone/computer to connect to school websites or friends who have information on colleges. 
 
 How do people communicate with each other?
-WRITEWRITEWRITEWRITEWRITE
+First they will connect through the website to exchange information then communicate via text, email, or phone.
 
 How often are the tasks performed?
-WRITEWRITEWRITEWRITEWRITE
+Ideally, tasks will be performed everyday as a user will keep in contact with high school or college students and constantly update their profile.
 
 What are the time constraints on the tasks?
-WRITEWRITEWRITEWRITEWRITE
+Should be completed instantly, especially with message communication.
 
 What happens when things go wrong?
-WRITEWRITEWRITEWRITEWRITE
+There is a miscommunication or page timeout. No real big issues should arise.
