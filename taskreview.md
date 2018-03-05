@@ -18,3 +18,13 @@ Hopper is a shy high school student from LA looking for current college students
 We want to give users a list of schools that suit their interests based on the information that they shared with us.  
 
 Turing is a high school student from California looking for colleges.  He loves warm weather, enjoys climbing mountains and detests snow.  He likes large cities.  He is into computer science and is also looking into playing football in college.  He knows that he has strong academics, so he has a general feeling of what tier of schools are good fits for him.  However, as there are still too many schools to consider, Turing needs help with picking out a set of schools that will allow him to continue his interests in college.  Within this set, Turing is interested in knowing which ones fit him the best, so that it is easier to make the right choices.  College Connect will help Turing by taking into account his interests and giving him a ranking of the colleges that suit his interests the most.
+
+### 5) College Forums - Easy Task
+We want users to get a well-rounded view of what college students value on their campuses, and what experiences most accurately encompass those views.
+
+Miles is a high school senior unsure of what colleges are out there and what students value on each campus. He would like a general overview of student experiences, both positive and negative, on different campuses, and how they impact students’ views of their school. Miles discovers the ‘School Forums’ section and reads about many colleges, including many posts from students currently attending the selected school. After reading many posts, Miles realizes that some schools are not for him given student perceptions, helping him rank his college list.
+
+### 6) Final Verification - Medium Task
+We would like users to be comfortable in their final college acceptance decision.
+
+Tracy is a high school senior who's been accepted to her current top choice college. However, there are still questions lingering in the back of her mind, that if clarified, will be the final push for her to ultimately commit. Luckily, her college has a list of students who are willing to answer any questions prospective students may have. Tracy contacts Clara, a current student at Tracy's top college choice, who answers all of Tracy's questions. After their interactions, Tray is confident in her decision.
