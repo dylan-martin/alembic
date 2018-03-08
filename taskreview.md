@@ -3,7 +3,7 @@ title: Task Review
 layout: page
 ---
 
-### 1) Find other users participate in similar interests to you - Medium Task
+### 1) Find other who have similar interests to you - Medium Task
 Sally, a current high school senior, logs on to College Connect to learn more about the schools that she is applying to.  She lives on the west coast, but is interested in attending Williams College.  Because of the distance, she will not be able to visit Williams, and does not know any current students at the college.  However, after sharing her personal information and passion for playing the oboe on the platform, she is able to see several Williams students who have overlapping interests and backgrounds.  Sally is able to connect with George, a Williams student who attended a nearby high school, and Gaby, who participates in the wind ensamble at Williams.  Through conversations with these students, Sally is able to learn more about the experience of students at Williams with whom she shares background and interests and get an honest representation of life at Williams.
 
 ### 2) Speak candidly without fear of repercussion from colleges - Easy Task
@@ -24,3 +24,15 @@ Miles is a high school senior unsure of what colleges are out there and what stu
 We would like users to be comfortable in their final college acceptance decision.
 
 Tracy is a high school senior who's been accepted to her current top choice college. However, there are still questions lingering in the back of her mind, that if clarified, will be the final push for her to ultimately commit. Luckily, her college has a list of students who are willing to answer any questions prospective students may have. Tracy contacts Clara, a current student at Tracy's top college choice, who answers all of Tracy's questions. After their interactions, Tray is confident in her decision.
+
+## Designs
+
+### Connection-Centered Design
+
+This design centers the interpersonal aspect of the College Connect platform.  The opening page contains a list of potential connections (for applicant users, a list of college students from their selected schools; for college users, a list of applicants interested in their school).  From this page, the user can navigate to the personal profile of each connection, and start conversations via text or video chat.  Users have full control of the information listed on their personal profile.
+
+#### Task 1: Find other users with similar interests to you.
+
+The list of potential connections on the opening page highlights overlapping interests.  From here, users can navigate to the personal profiles of their potential connections, see the other interests they have listed, and read a short bio that the user wrote about themself.  This will provide a comfortable and anonymous means by which users can look for other users with similar interests, and chose to connect with them if they are interested.
+
+#### Task 2: 
