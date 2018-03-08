@@ -69,3 +69,41 @@ By developing connections on the platform throughout the college search and deci
 <img src="img/dm_t4.png" height = "60%" width = "60%">
 
 
+## Design 2: Search-Centered Design
+![Design 3](/img/dm_t5.png)
+
+Tasks:
+1.  College Forums
+2.  Rank Schools
+3.  Find others who have similar interests
+4.  Final Verification
+
+Main idea:
+This design focuses on the perspective of high school users. This website allows users to: read college forums, rank colleges, find current college students with similar interests, and send requests to college students. Each task is simple to complete, and switching between tasks is intuitive.
+
+Task Completion:
+1. _College Forum_
+*  Click on the dropdown nav bar at the top right of the screen
+*  Select the 'Forums' option
+*  User simply enters the name of a college to find forums to read
+
+2. _Rank Schools_
+*  Click on the dropdown nav bar at the top right of the screen
+*  Select the "My Rankings" option
+*  Search for a college and enter ranking 
+*  User can see their current rankings
+*  They can choose how many/which of their top ranked colleges to see
+
+3.  _Find others who have similar interests_
+*  Click on the dropdown nav bar at the top right of the screen
+*  Select the "Find Students" option
+*  User enters name of college of interest
+*  User selects their interests from a list of interests with the option to add/remove interests
+*  After all interests are filled, they can finally search for students
+
+4. _Final verification_
+*  Click on the dropdown nav bar at the top right of the screen
+*  Select the "Find Students" option
+*  User enters name of college of interest
+*  A list of student profiles who are willing to connect with high school students appears
+*  The user is then allowed to send the college a student a message and request to connect
