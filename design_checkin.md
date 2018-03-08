@@ -12,7 +12,7 @@ Hopper is a shy high school student from LA looking for current college students
 Turing is a high school student from California looking for colleges. He loves warm weather, enjoys climbing mountains and detests snow. He likes large cities. He is into computer science and is also looking into playing football in college. He knows that he has strong academics, so he has a general feeling of what tier of schools are good fits for him. However, as there are still too many schools to consider, Turing needs help with picking out a set of schools that will allow him to continue his interests in college. Within this set, Turing is interested in knowing which ones fit him the best, so that it is easier to make the right choices. Turing wants a ranked list of schools that take his interests into account.
 
 ## Design 1
-![Design 1](/img/wei_sketch.png)
+![Design 1](/img/sketch_wei.png)
 
 Tasks:
 1.  Share basic information with other users
