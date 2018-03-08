@@ -41,4 +41,10 @@ The list of potential connections on the opening page highlights overlapping int
 
 The text and video chat features of the platform will enable comfortable and candid conversation about user questions.  Because the platform itself is independent of colleges and all connections are formed between users directly, users will be able to have discussions without concern for what college administratiors or admissions officers might think.  Modeled after common interpersonal communication apps, this design will cultivate a relaxed environment for discussion.
 
-#### Task 3: 
+#### Task 3: Sharing basic information with other users
+
+The personal profile feature will allow users to share information, as they choose, with potential connections.  The basic information sections (school, hometown, activities) will provide necessary information for finding potential connections, and the open-ended bio section will allow users to provide whatever other information they believe would be useful or interesting.  Additionally, users can share additional information as they feel comfortable using the chat features.
+
+#### Task 4: Final verification
+
+By developing connections on the platform throughout the college search and decision process, applicant users will be able to discuss their final concerns with current students.  These students can act as a resource throughout the process, and provide genuine, experience-based feedback on their time at the college and any questions that an applicant may have.
