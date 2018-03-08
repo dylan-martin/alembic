@@ -17,24 +17,24 @@ This design focuses on the perspective of users who are current college students
 
 Task Completion:
 
-Share basic information with other users.
+_Share basic information with other users_
   *  Click on the "Me" button/tab on the bottom to go to the basic information page
   *  Contains basic information such as name, school, and interests that the user can edit
   *  User can choose to upload a profile picture
 
-College forum
+_College forum_
   *  Click on the "Forum" button/tab on the bottom to go to the college forum page
   *  Page consists of a search bar, a "post" action, and forum displays 
   *  Can swipe up for more posts
   *  Can click on the post stub to see more information or respond
 
-Find others who have similar interests
+_Find others who have similar interests_
   *  Click on the "Matches" button/tab on the bottom to go to the similar interests page
   *  Displays simplified profiles of prospective students who the user might be interested in
   *  Each profile displays profile picture, name, and the reason why the profile appears here - common interests.
   *  Can click on the profile for more information or actions
 
-Speak candidly without fear of repercussion from colleges / Final verification
+_Speak candidly without fear of repercussion from colleges / Final verification_
   *  Click on the "Requests" button/tab on the bottom to go to the requests page
   *  Contains requests from prospective students
   *  Each request appears in the form of a brief profile, along with a reason for the request or a short question
