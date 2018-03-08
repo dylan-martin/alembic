@@ -69,7 +69,7 @@ By developing connections on the platform throughout the college search and deci
 <img src="img/dm_t4.png" height = "60%" width = "60%">
 
 
-## Design 2: Search-Centered Design
+## Design 3: Search-Centered Design
 ![Design 3](/img/dm_t5.png)
 
 Tasks:
