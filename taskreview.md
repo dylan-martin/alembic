@@ -3,6 +3,8 @@ title: Task Review
 layout: page
 ---
 
+## Tasks
+
 ### 1) Find other who have similar interests to you - Medium Task
 Sally, a current high school senior, logs on to College Connect to learn more about the schools that she is applying to.  She lives on the west coast, but is interested in attending Williams College.  Because of the distance, she will not be able to visit Williams, and does not know any current students at the college.  However, after sharing her personal information and passion for playing the oboe on the platform, she is able to see several Williams students who have overlapping interests and backgrounds.  Sally is able to connect with George, a Williams student who attended a nearby high school, and Gaby, who participates in the wind ensamble at Williams.  Through conversations with these students, Sally is able to learn more about the experience of students at Williams with whom she shares background and interests and get an honest representation of life at Williams.
 
@@ -35,4 +37,8 @@ This design centers the interpersonal aspect of the College Connect platform.  T
 
 The list of potential connections on the opening page highlights overlapping interests.  From here, users can navigate to the personal profiles of their potential connections, see the other interests they have listed, and read a short bio that the user wrote about themself.  This will provide a comfortable and anonymous means by which users can look for other users with similar interests, and chose to connect with them if they are interested.
 
-#### Task 2: 
+#### Task 2: Speak candidly without fear of repercussion from colleges
+
+The text and video chat features of the platform will enable comfortable and candid conversation about user questions.  Because the platform itself is independent of colleges and all connections are formed between users directly, users will be able to have discussions without concern for what college administratiors or admissions officers might think.  Modeled after common interpersonal communication apps, this design will cultivate a relaxed environment for discussion.
+
+#### Task 3: 
