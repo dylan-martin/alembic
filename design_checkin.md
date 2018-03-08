@@ -83,26 +83,27 @@ Main idea:
 This design focuses on the perspective of high school users and heavily relies on search-based task completion. This website allows users to: search for and read college forums, search and rank colleges, find current college students with similar interests, and send requests to college students. Each task is simple to complete, and switching between tasks is intuitive.
 
 Task Completion:
-1. _College Forum_
+
+_College Forum_
   *  Click on the dropdown nav bar at the top right of the screen
   *  Select the 'Forums' option
   *  User simply enters the name of a college to find forums to read
 
-2. _Rank Schools_
+_Rank Schools_
   *  Click on the dropdown nav bar at the top right of the screen
   *  Select the "My Rankings" option
   *  Search for a college and enter ranking 
   *  User can see their current rankings
   *  They can choose how many/which of their top ranked colleges to see
 
-3.  _Find others who have similar interests_
+_Find others who have similar interests_
   *  Click on the dropdown nav bar at the top right of the screen
   *  Select the "Find Students" option
   *  User enters name of college of interest
   *  User selects their interests from a list of interests with the option to add/remove interests
   *  After all interests are filled, they can finally search for students
 
-4. _Final verification_
+_Final verification_
   *  Click on the dropdown nav bar at the top right of the screen
   *  Select the "Find Students" option
   *  User enters name of college of interest
