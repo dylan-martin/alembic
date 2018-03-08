@@ -16,24 +16,25 @@ Main idea:
 This design focuses on the perspective of users who are current college students.  This is a mobile app that allows users to create/edit personal information, participate in a forum about colleges, find other users with similar interests, and accept requests from other users.  For each task, the user can gain an overview with ease.  The user is also able to switch between tasks effortlessly.
 
 Task Completion:
-1  Share basic information with other users.
+
+Share basic information with other users.
   *  Click on the "Me" button/tab on the bottom to go to the basic information page
   *  Contains basic information such as name, school, and interests that the user can edit
   *  User can choose to upload a profile picture
 
-2 College forum
+College forum
   *  Click on the "Forum" button/tab on the bottom to go to the college forum page
   *  Page consists of a search bar, a "post" action, and forum displays 
   *  Can swipe up for more posts
   *  Can click on the post stub to see more information or respond
 
-3  Find others who have similar interests
+Find others who have similar interests
   *  Click on the "Matches" button/tab on the bottom to go to the similar interests page
   *  Displays simplified profiles of prospective students who the user might be interested in
   *  Each profile displays profile picture, name, and the reason why the profile appears here - common interests.
   *  Can click on the profile for more information or actions
 
-4 Speak candidly without fear of repercussion from colleges / Final verification
+Speak candidly without fear of repercussion from colleges / Final verification
   *  Click on the "Requests" button/tab on the bottom to go to the requests page
   *  Contains requests from prospective students
   *  Each request appears in the form of a brief profile, along with a reason for the request or a short question
