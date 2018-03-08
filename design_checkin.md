@@ -79,7 +79,7 @@ Tasks:
 4.  Final Verification
 
 Main idea:
-This design focuses on the perspective of high school users. This website allows users to: read college forums, rank colleges, find current college students with similar interests, and send requests to college students. Each task is simple to complete, and switching between tasks is intuitive.
+This design focuses on the perspective of high school users and heavily relies on search-based task completion. This website allows users to: search for and read college forums, search and rank colleges, find current college students with similar interests, and send requests to college students. Each task is simple to complete, and switching between tasks is intuitive.
 
 Task Completion:
 1. _College Forum_
