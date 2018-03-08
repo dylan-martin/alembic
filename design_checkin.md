@@ -48,25 +48,25 @@ This design centers the interpersonal aspect of the College Connect platform.  T
 
 The list of potential connections on the opening page highlights overlapping interests.  From here, users can navigate to the personal profiles of their potential connections, see the other interests they have listed, and read a short bio that the user wrote about themself.  This will provide a comfortable and anonymous means by which users can look for other users with similar interests, and chose to connect with them if they are interested.
 
-<img src="img/dm_t1.png" height = "60%" width = "60%">
+![Design_2_1](/img/dm_t1.png)
 
 ### Task 2: Speak candidly without fear of repercussion from colleges
 
 The text and video chat features of the platform will enable comfortable and candid conversation about user questions.  Because the platform itself is independent of colleges and all connections are formed between users directly, users will be able to have discussions without concern for what college administratiors or admissions officers might think.  Modeled after common interpersonal communication apps, this design will cultivate a relaxed environment for discussion.
 
-<img src="img/dm_t2.png" height = "60%" width = "60%">
+![Design_2_2](/img/dm_t2.png)
 
 ### Task 3: Sharing basic information with other users
 
 The personal profile feature will allow users to share information, as they choose, with potential connections.  The basic information sections (school, hometown, activities) will provide necessary information for finding potential connections, and the open-ended bio section will allow users to provide whatever other information they believe would be useful or interesting.  Additionally, users can share additional information as they feel comfortable using the chat features.
 
-<img src="img/dm_t3.png" height = "60%" width = "60%">
+![Design_2_3](/img/dm_t3.png)
 
 ### Task 4: Final verification
 
 By developing connections on the platform throughout the college search and decision process, applicant users will be able to discuss their final concerns with current students.  These students can act as a resource throughout the process, and provide genuine, experience-based feedback on their time at the college and any questions that an applicant may have.
 
-<img src="img/dm_t4.png" height = "60%" width = "60%">
+![Design_2_4](/img/dm_t4.png)
 
 
 ## Design 3: Search-Centered Design
