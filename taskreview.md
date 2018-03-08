@@ -3,8 +3,6 @@ title: Task Review
 layout: page
 ---
 
-## Tasks
-
 ### 1) Find other who have similar interests to you - Medium Task
 Sally, a current high school senior, logs on to College Connect to learn more about the schools that she is applying to.  She lives on the west coast, but is interested in attending Williams College.  Because of the distance, she will not be able to visit Williams, and does not know any current students at the college.  However, after sharing her personal information and passion for playing the oboe on the platform, she is able to see several Williams students who have overlapping interests and backgrounds.  Sally is able to connect with George, a Williams student who attended a nearby high school, and Gaby, who participates in the wind ensamble at Williams.  Through conversations with these students, Sally is able to learn more about the experience of students at Williams with whom she shares background and interests and get an honest representation of life at Williams.
 
@@ -27,32 +25,3 @@ We would like users to be comfortable in their final college acceptance decision
 
 Tracy is a high school senior who's been accepted to her current top choice college. However, there are still questions lingering in the back of her mind, that if clarified, will be the final push for her to ultimately commit. Luckily, her college has a list of students who are willing to answer any questions prospective students may have. Tracy contacts Clara, a current student at Tracy's top college choice, who answers all of Tracy's questions. After their interactions, Tray is confident in her decision.
 
-## Designs
-
-### Connection-Centered Design
-
-This design centers the interpersonal aspect of the College Connect platform.  The opening page contains a list of potential connections (for applicant users, a list of college students from their selected schools; for college users, a list of applicants interested in their school).  From this page, the user can navigate to the personal profile of each connection, and start conversations via text or video chat.  Users have full control of the information listed on their personal profile.
-
-#### Task 1: Find other users with similar interests to you.
-
-The list of potential connections on the opening page highlights overlapping interests.  From here, users can navigate to the personal profiles of their potential connections, see the other interests they have listed, and read a short bio that the user wrote about themself.  This will provide a comfortable and anonymous means by which users can look for other users with similar interests, and chose to connect with them if they are interested.
-
-<img src="img/dm_t1.png" height = "50%" width = "50%">
-
-#### Task 2: Speak candidly without fear of repercussion from colleges
-
-The text and video chat features of the platform will enable comfortable and candid conversation about user questions.  Because the platform itself is independent of colleges and all connections are formed between users directly, users will be able to have discussions without concern for what college administratiors or admissions officers might think.  Modeled after common interpersonal communication apps, this design will cultivate a relaxed environment for discussion.
-
-<img src="img/dm_t2.png" height = "50%" width = "50%">
-
-#### Task 3: Sharing basic information with other users
-
-The personal profile feature will allow users to share information, as they choose, with potential connections.  The basic information sections (school, hometown, activities) will provide necessary information for finding potential connections, and the open-ended bio section will allow users to provide whatever other information they believe would be useful or interesting.  Additionally, users can share additional information as they feel comfortable using the chat features.
-
-<img src="img/dm_t3.png" height = "50%" width = "50%">
-
-#### Task 4: Final verification
-
-By developing connections on the platform throughout the college search and decision process, applicant users will be able to discuss their final concerns with current students.  These students can act as a resource throughout the process, and provide genuine, experience-based feedback on their time at the college and any questions that an applicant may have.
-
-<img src="img/dm_t4.png" height = "50%" width = "50%">
