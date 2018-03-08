@@ -17,27 +17,27 @@ This design focuses on the perspective of users who are current college students
 
 Task Completion:
 1.  Share basic information with other users.
-*  Click on the "Me" button/tab on the bottom to go to the basic information page
-*  Contains basic information such as name, school, and interests that the user can edit
-*  User can choose to upload a profile picture
+  *  Click on the "Me" button/tab on the bottom to go to the basic information page
+  *  Contains basic information such as name, school, and interests that the user can edit
+  *  User can choose to upload a profile picture
 
 2. College forum
-*  Click on the "Forum" button/tab on the bottom to go to the college forum page
-*  Page consists of a search bar, a "post" action, and forum displays 
-*  Can swipe up for more posts
-*  Can click on the post stub to see more information or respond
+  *  Click on the "Forum" button/tab on the bottom to go to the college forum page
+  *  Page consists of a search bar, a "post" action, and forum displays 
+  *  Can swipe up for more posts
+  *  Can click on the post stub to see more information or respond
 
 3.  Find others who have similar interests
-*  Click on the "Matches" button/tab on the bottom to go to the similar interests page
-*  Displays simplified profiles of prospective students who the user might be interested in
-*  Each profile displays profile picture, name, and the reason why the profile appears here - common interests.
-*  Can click on the profile for more information or actions
+  *  Click on the "Matches" button/tab on the bottom to go to the similar interests page
+  *  Displays simplified profiles of prospective students who the user might be interested in
+  *  Each profile displays profile picture, name, and the reason why the profile appears here - common interests.
+  *  Can click on the profile for more information or actions
 
 4. Speak candidly without fear of repercussion from colleges / Final verification
-*  Click on the "Requests" button/tab on the bottom to go to the requests page
-*  Contains requests from prospective students
-*  Each request appears in the form of a brief profile, along with a reason for the request or a short question
-*  The user can choose to accept the request for private conversation, reply with answer to a short question or ask for more information, or deny the request. 
+  *  Click on the "Requests" button/tab on the bottom to go to the requests page
+  *  Contains requests from prospective students
+  *  Each request appears in the form of a brief profile, along with a reason for the request or a short question
+  *  The user can choose to accept the request for private conversation, reply with answer to a short question or ask for more information, or deny the request. 
 
 
 ## Design 2: Connection-Centered Design
@@ -83,27 +83,27 @@ This design focuses on the perspective of high school users and heavily relies o
 
 Task Completion:
 1. _College Forum_
-*  Click on the dropdown nav bar at the top right of the screen
-*  Select the 'Forums' option
-*  User simply enters the name of a college to find forums to read
+  *  Click on the dropdown nav bar at the top right of the screen
+  *  Select the 'Forums' option
+  *  User simply enters the name of a college to find forums to read
 
 2. _Rank Schools_
-*  Click on the dropdown nav bar at the top right of the screen
-*  Select the "My Rankings" option
-*  Search for a college and enter ranking 
-*  User can see their current rankings
-*  They can choose how many/which of their top ranked colleges to see
+  *  Click on the dropdown nav bar at the top right of the screen
+  *  Select the "My Rankings" option
+  *  Search for a college and enter ranking 
+  *  User can see their current rankings
+  *  They can choose how many/which of their top ranked colleges to see
 
 3.  _Find others who have similar interests_
-*  Click on the dropdown nav bar at the top right of the screen
-*  Select the "Find Students" option
-*  User enters name of college of interest
-*  User selects their interests from a list of interests with the option to add/remove interests
-*  After all interests are filled, they can finally search for students
+  *  Click on the dropdown nav bar at the top right of the screen
+  *  Select the "Find Students" option
+  *  User enters name of college of interest
+  *  User selects their interests from a list of interests with the option to add/remove interests
+  *  After all interests are filled, they can finally search for students
 
 4. _Final verification_
-*  Click on the dropdown nav bar at the top right of the screen
-*  Select the "Find Students" option
-*  User enters name of college of interest
-*  A list of student profiles who are willing to connect with high school students appears
-*  The user is then allowed to send the college a student a message and request to connect
+  *  Click on the dropdown nav bar at the top right of the screen
+  *  Select the "Find Students" option
+  *  User enters name of college of interest
+  *  A list of student profiles who are willing to connect with high school students appears
+  *  The user is then allowed to send the college a student a message and request to connect
