@@ -9,3 +9,5 @@ We chose to develop our connection-centered design because we feel that it will 
 ![Storyboard 1](/img/storyboard_wei.png)
 
 
+## Task 2:  Speak candidly without fear of repercussion from colleges
+![Storyboard 2](/img/storyboard_julian.png)
