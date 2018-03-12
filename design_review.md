@@ -8,4 +8,6 @@ We chose to develop our connection-centered design because we feel that it will 
 
 
 ## Task 1:  Find other users with similar interests to you
-![Design 1](/img/sketch_wei.png)
+![Storyboard 1](/img/storyboard_wei.png)
+
+
