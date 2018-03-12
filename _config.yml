@@ -97,6 +97,7 @@ navigation_header:
   CI Review: /cireview/
   Task Review: /taskreview/
   Design Check-In: /design_checkin/ 
+  Design Review: /design_review/
   
 navigation_footer:
   Template by David Darnes                                            : "https://github.com/daviddarnes"
