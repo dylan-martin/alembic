@@ -25,49 +25,6 @@ Second, this needs to be a trustworthy source.  For any stakeholder group--appli
 We note in particular that there is a theme of "shared interest".  On the prospective student's side, this means that the college should be able to host that interest for the student, and that a portion of the current students should share that interest.  For example, for Sam, this translates into the college having a great lacrosse team, and that there are current students who are also interested in lacrosse that he can talk to.  Moreover, this shared interest helps prospective and current students establish a relationship easier, so that important college information can be exchanged faster.  For college admissions, the prospective student demonstrating great interest in an activity that the college is interested in shows the student's dedication, and helps the student get admitted.  All of these factors will help each other.  For example, suppose A is interested in playing football, and connects with a large group of students at school S who are talented football players.  Then there is a high probability that school S values football players greatly, so communicating with current students will both help A get into a matching school and help S find the students it is looking for.
 
 ## Task Analysis
-Provide brief answers to the following questions. These should help you begin to identify tasks essential to your design.
-Who is going to use the design?
-Prospective and current college students.
+Our project’s target audiences are prospective and current college students. Currently, prospective college students usually either go to someone they know for university recommendations or attend information sessions such as campus tours or visit university websites for general information on the school. Although not bad approaches to learning about schools, the information prospective students get are often tailored to portray the school in a positive light through fun facts and typical data. Holistic perspectives are often ignored. Prospective students are not given the opportunity to speak with current college students who share similar interests or ask about certain topics not shown on pamphlets. We believe prospective students should be able to know as much about the school as possible before applying or accepting an offer. Thus, through our desired tasks, prospective students will be more confident in their understanding of the daily life at a university and which schools they would like to attend. Our product will allow a user to create a personalized account/profile containing their interests - possible major(s), sports, clubs, extracurricular activities - communication between high school and current students through messaging and video chats, a ranking of colleges so students can easily decide where to accept once given offers, and general writing on forums. 
 
-What tasks do they now perform?
-Prospective students either go to someone they already know for recommendations, or attend information sessions (campus tours) / visit college websites for general information. 
-
-What tasks are desired?
-
-Creating an account/profile
-
-Personalization of account
-
-Communication between high school and college students
-
-Ranking of schools
-
-Deciding whether they are considering a college
-
-Personal messaging
-
-Writing on forums
-
-How are the tasks learned?
-Through using the website and reading FAQs. If the design is good, this should be intuitive for the user.
-
-Where are the tasks performed?
-On a computer, generally in a dorm or house.
-
-What is the relationship between the person and data?
-We will store user information - their ranking of schools, profile - including who they have talked to and what was said so a user can see it later.
-
-What other tools does the person have?
-Their phone/computer to connect to school websites or friends who have information on colleges. 
-
-How do people communicate with each other?
-First they will connect through the website to exchange information then communicate via text, email, or phone.
-
-How often are the tasks performed?
-Ideally, tasks will be performed everyday as a user will keep in contact with high school or college students and constantly update their profile.
-
-What are the time constraints on the tasks?
-Should be completed instantly, especially with message communication.
-
-What happens when things go wrong?
-There is a miscommunication or page timeout. No real big issues should arise.
+Although the steps to completing a task should be intuitive, we will provide an FAQ section explaining how the tasks are done. To make this product as accessible as possible, users will be able to access the website on a phone or computer allowing them to complete tasks anywhere. As a result of user profiles and communication through personal messaging and/or forums, we will need to store this information so users can go back and look at what has been said. Students will generally perform tasks every day so as to stay updated or make changes to their profiles. Thus tasks need to be completed and shown on profiles instantly, especially with message communication. Possible issues are miscommunication or pages timing out, but those are not worrisome concerns.  
