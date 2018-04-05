@@ -11,11 +11,11 @@ layout: page
 
 Once a prospective student has created their personal profile including their interests, they can select the 'Potential Connections' tab at the bottom of the page. This tab will display current college students at various schools with at least one common interest as the prospective student. If the student would like to know more about a specific student they can view the students page. 
 
-<img src="/img/potential_connections.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connections.png" width="200" height="400" />
 
 Once the prospective student finds someone who they think may help them learn more about the college of interest they can decide to talk to the student by pressing the 'Start Conversation' button at the bottom of the screen. This will then navigate the user to the chat interface, shown later. If the prospective student decides not to engage a conversation, they can press the back arrow at the top of the screen and continue searching.
 
-<img src="/img/potential_connection_profile.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="200" height="400" />
 
 
 ## Start conversations
