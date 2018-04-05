@@ -3,6 +3,10 @@ title: Paper Prototypes
 layout: page
 ---
 
+## Summary
+
+![Overview image](/img/overview.png)
+
 ## Tasks:
 ### 1. Speak candidly without fear of repercussion from colleges
 ### 2. Find other users with similar interests to you
