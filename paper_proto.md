@@ -17,15 +17,15 @@ Our design emphasizes the connections and conversations that users make through 
 
 Upon first opening the College Connect app, users are presented with a simple welcome screen.
 
-![login](/img/dm_welcome.png)
+<img src="/img/dm_welcome.png" width="200" height="400"/>
 
 If the user has already created a College Connect profile, they will log in and be directed to their "Conversations" page (see below).  If this is a new user, they will select "New User" and will be directed to a screen allowing them to choose their user type.
 
-![select](/img/dm_select.png)
+<img src="/img/dm_select.png" width="200" height="400"/>
 
 After the user selects the appropriate type, they will be directed to their personal profile screen, where they can share basic information about themselves.  This information includes their name, school (college students) or prospective schools (college applicants), class year, home town, interests, and a short personal bio.
 
-![profile](/img/dm_pprofile.png)
+<img src="/img/dm_pprofile.png" width="200" height="400"/>
 
 After they complete their profile, users are able to see their potential connections, based on the information they provided.
 
