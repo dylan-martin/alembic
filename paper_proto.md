@@ -5,7 +5,7 @@ layout: page
 
 ## Summary
 
-## Prototype 1: Similar interests
+## Similar interests
 
 Tasks:
 * Speak candidly without fear of repercussion from colleges
@@ -20,7 +20,7 @@ Once the prospective student finds someone who they think may help them learn mo
 <img src="/img/potential_connection_profile.png" width="200" height="400" />
 
 
-## Prototype 2: Conversations
+## Conversations
 
 ### Tasks:
 * Speak candidly without fear of repercussion from colleges
