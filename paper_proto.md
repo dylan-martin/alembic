@@ -12,3 +12,4 @@ Tasks:
 * Find other users with similar interests to you
 
 ![wei_1](/wei_1.png = 500x150)
+<img src="/wei_1.png" width="200" height="400" />
