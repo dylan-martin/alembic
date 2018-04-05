@@ -4,8 +4,8 @@ layout: page
 ---
 
 ## Tasks:
-### * Speak candidly without fear of repercussion from colleges
-### * Find other users with similar interests to you
+### 1. Speak candidly without fear of repercussion from colleges
+### 2. Find other users with similar interests to you
 
 ## Find users with similar interests
 
