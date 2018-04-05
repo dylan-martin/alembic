@@ -21,3 +21,5 @@ College Connect was inspired by a simple observation: learning about colleges is
 Our research consisted of three contextual inquries with individuals representing various stakeholders in our project: a current college student speaking with younger relatives about the college search process and his experiences at Williams, a high school junior currently in the process of searching for a college, and a Williams College admissions officer presenting at an information session.  To learn more about why we chose these participants and the stakeholders in this project, see our [Contextual Inquiry Plan](/ci.md).  For an in-depth analysis of these inquiries and our analysis of them, see our [Contextual Inquiry Review](/cireview.md).  We additionally have a thorough analysis of our inquiry with Vinny, the current college student we observed, [here](/ci_checkin_1.md).
 
 ## Task Analysis Questions
+
+From our contextual inquiries and subsequent work on the College Connect platform, we developed a nuanced understanding of the tasks our users hope to complete with our platform.
