@@ -89,15 +89,17 @@ repo: "https://github.com/dylan-martin/college_connect"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Project Proposal: /grpproposal/
-  Team Contract: /contract/
-  Brainstorming: /brain/
-  CI Plan: /ci/
-  CI Check-In: /ci_checkin_1/
-  CI Review: /cireview/
-  Task Review: /taskreview/
-  Design Check-In: /design_checkin/ 
-  Design Review: /design_review/
+  Looking to Understand: /looking2understand/
+  Paper Prototype: /paper_proto/
+  #Project Proposal: /grpproposal/
+  #Team Contract: /contract/
+  #Brainstorming: /brain/
+  #CI Plan: /ci/
+  #CI Check-In: /ci_checkin_1/
+  #CI Review: /cireview/
+  #Task Review: /taskreview/
+  #Design Check-In: /design_checkin/ 
+  #Design Review: /design_review/
   
 navigation_footer:
   Template by David Darnes                                            : "https://github.com/daviddarnes"
