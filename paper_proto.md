@@ -22,7 +22,7 @@ Tasks:
 * Find other users with similar interests to you
 
 <p>
-<img src="/wei_1.png" width="200" height="400" />
+<img src="/wei_1.png" align = "left" width="200" height="400" />
 <em>The user can press the "conversation" tab to navigate to the conversation interface.  This interface shows the user's conversations with other users, order by recent messages.  The user can press the tab with the person's name to begin chatting with that person.  The user can also press the top-right "begin video chat" to begin a video call.</em>
 </p>
 
