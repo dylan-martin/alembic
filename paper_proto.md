@@ -1,4 +1,3 @@
-
 ---
 title: Paper Prototypes
 layout: page
@@ -12,4 +11,4 @@ Tasks:
 * Speak candidly without fear of repercussion from colleges
 * Find other users with similar interests to you
 
-![Design 1](/img/sketch_wei.png)
+![wei_1](wei1_1.png)
