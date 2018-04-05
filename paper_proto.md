@@ -7,9 +7,27 @@ layout: page
 
 ![Overview image](/img/overview.png)
 
+Our design emphasizes the connections and conversations that users make through the College Connect platform.  Users begin by selecting their type (college applicant or college student) and filling out a personal profile that details their interests, activities, and includes an unstructured personal bio.  Users then can see potential connections--suggested based on their school, interests, and home town--and begin conversations with these users via video or text chat.
+
 ## Tasks:
 ### 1. Speak candidly without fear of repercussion from colleges
 ### 2. Find other users with similar interests to you
+
+## Share personal information
+
+Upon first opening the College Connect app, users are presented with a simple welcome screen.
+
+![login](/img/dm_welcome.png)
+
+If the user has already created a College Connect profile, they will log in and be directed to their "Conversations" page (see below).  If this is a new user, they will select "New User" and will be directed to a screen allowing them to choose their user type.
+
+![select](/img/dm_select.png)
+
+After the user selects the appropriate type, they will be directed to their personal profile screen, where they can share basic information about themselves.  This information includes their name, school (college students) or prospective schools (college applicants), class year, home town, interests, and a short personal bio.
+
+![profile](/img/dm_pprofile.png)
+
+After they complete their profile, users are able to see their potential connections, based on the information they provided.
 
 ## Find users with similar interests
 
