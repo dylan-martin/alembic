@@ -3,13 +3,11 @@ title: Paper Prototypes
 layout: page
 ---
 
-## Summary
+## Tasks:
+### * Speak candidly without fear of repercussion from colleges
+### * Find other users with similar interests to you
 
-## Similar interests
-
-Tasks:
-* Speak candidly without fear of repercussion from colleges
-* Find other users with similar interests to you
+## Find users with similar interests
 
 Once a prospective student has created their personal profile including their interests, they can select the 'Potential Connections' tab at the bottom of the page. This tab will display current college students at various schools with at least one common interest as the prospective student. If the student would like to know more about a specific student they can view the students page. 
 
@@ -20,11 +18,7 @@ Once the prospective student finds someone who they think may help them learn mo
 <img src="/img/potential_connection_profile.png" width="200" height="400" />
 
 
-## Conversations
-
-### Tasks:
-* Speak candidly without fear of repercussion from colleges
-* Find other users with similar interests to you
+## Start conversations
 
 The user can press the "conversation" tab to navigate to the conversation interface.  This interface shows the user's conversations with other users, order by recent messages.  The user can press the tab with the person's name to begin chatting with that person.  The user can also press the top-right "begin video chat" to begin a video call.
 
