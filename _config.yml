@@ -89,7 +89,7 @@ repo: "https://github.com/dylan-martin/college_connect"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Looking to Understand: /looking2understand/
+  Looking to Understand: /look2understand/
   Paper Prototype: /paper_proto/
   #Project Proposal: /grpproposal/
   #Team Contract: /contract/
