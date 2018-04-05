@@ -4,9 +4,7 @@ layout: page
 ---
 
 ## Our Team
-Dylan Martin
-Wei Luo
-Julian Vera
+[Dylan Martin](https://dylan-martin.github.io/) | [Wei Luo](https://wl5.github.io/) | [Julian Vera](https://verajulian.github.io/)
 
 We chose not to assign specific group roles to our members because of the dynamic nature of our project and the varied tasks required to complete it.  Instead, we divided work for each task based on our group member's particular skills and availability.
 
