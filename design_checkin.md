@@ -13,7 +13,7 @@ Tasks:
 4.  Speak candidly without fear of repercussion from colleges /  Final Verification
 
 Main idea:
-This design focuses on the perspective of users who are current college students.  This is a mobile app that allows users to create/edit personal information, participate in a forum about colleges, find other users with similar interests, and accept requests from other users.  For each task, the user can gain an overview with ease.  The user is also able to switch between tasks effortlessly.
+This design focuses on the perspective of users who are current college students.  This is a mobile app that allows users to create/edit personal information, participate in a forum about colleges, find other users with similar interests, and accept requests from other users.  For each task, the user can gain an overview with ease. 
 
 Task Completion:
 
