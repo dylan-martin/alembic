@@ -32,17 +32,17 @@ The user can press the "conversation" tab to navigate to the conversation interf
 
 This interface allows the user to send messages.   At the top-left corner, the back arrow takes the user back to the previous page.  The name of the person with whom the user is chatting is displayed at the top.  Messages are shown in the main body of the interface, with the other person's messages on the right.  At the bottom, the user can enter a message and press "enter" to send.
 
-<img src="https://github.com/dylan-martin/college_connect/blob/master/wei_2.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_2.png" width="200" height="400" />
 
 Sent message.
 
-<img src="https://github.com/dylan-martin/college_connect/blob/master/wei_2.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_3.png" width="200" height="400" />
 
 Interface after pressing "begin video call".  Waits for the other side to accept the request.  The user can press "End Call" to end the call.
 
-<img src="https://github.com/dylan-martin/college_connect/blob/master/wei_2.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_4.png" width="200" height="400" />
 
 Sample video call.  The user can press "End Call" to end the call.
 
-<img src="https://github.com/dylan-martin/college_connect/blob/master/wei_5.png" align = "left" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_5.png" align = "left" width="200" height="400" />
 
