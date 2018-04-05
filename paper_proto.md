@@ -11,5 +11,8 @@ Tasks:
 * Speak candidly without fear of repercussion from colleges
 * Find other users with similar interests to you
 
-![wei_1](/wei_1.png = 500x150)
 <img src="/wei_1.png" width="200" height="400" />
+<img src="/wei_2.png" width="200" height="400" />
+<img src="/wei_3.png" width="200" height="400" />
+<img src="/wei_4.png" width="200" height="400" />
+<img src="/wei_5.png" width="200" height="400" />
