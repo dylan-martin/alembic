@@ -14,7 +14,7 @@ College Connect was inspired by a simple observation: learning about colleges is
 
 ## Design Research
 
-Our research consisted of three contextual inquries with individuals representing various stakeholders in our project: a current college student speaking with younger relatives about the college search process and his experiences at Williams, a high school junior currently in the process of searching for a college, and a Williams College admissions officer presenting at an information session.  To learn more about why we chose these participants and the stakeholders in this project, see our [Contextual Inquiry Plan](/ci.md).  For an in-depth analysis of these inquiries and our analysis of them, see our [Contextual Inquiry Review](/cireview.md).  We additionally have a thorough analysis of our inquiry with Vinny, the current college student we observed, [here](/ci_checkin_1.md).
+Our research consisted of three contextual inquiries with individuals representing various stakeholders in our project: a current college student speaking with younger relatives about the college search process and his experiences at Williams, a high school junior currently in the process of searching for a college, and a Williams College admissions officer presenting at an information session.  To learn more about why we chose these participants and the stakeholders in this project, see our [Contextual Inquiry Plan](/ci.md).  For an in-depth analysis of these inquiries and our analysis of them, see our [Contextual Inquiry Review](/cireview.md).  We additionally have a thorough analysis of our inquiry with Vinny, the current college student we observed, [here](/ci_checkin_1.md).
 
 ## Task Analysis Questions
 
@@ -26,9 +26,9 @@ We considered several designs for the College Connect platform.  These designs e
 
 ## Written Scenarios
 
-Scenarios for each of our proposed user tasks can be found [here](/taskreview.md).  These scenarios frame our tasks in terms of the user's interaction with our platform, and expose the core requirments that College Connect must fulfill to server our users.
+Scenarios for each of our proposed user tasks can be found [here](/taskreview.md).  These scenarios frame our tasks in terms of the user's interaction with our platform, and expose the core requirements that College Connect must fulfill to server our users.
 
 ## Storyboards for Selected Design
 
-We ultimately selected a mobile, connection-based design which emphasizes the personal connections and conversations that users can have on our platform.  Further, we chose to develop this design in consideration of two key tasks: find other users with similar interests to you and speak candidly without fear of repercussion from colleges.  We believe that these tasks are central to our goal to provide useful and unique information to our users about the college search process.  A full analysis of why we chose this design and storyboards for these two tasks can be found [here](/design_review.md)
+We ultimately selected a mobile, connection-based design which emphasizes the personal connections and conversations that users can have on our platform.  Further, we chose to develop this design in consideration of two key tasks: find other users with similar interests to you and speak candidly without fear of repercussion from colleges.  We believe that these tasks are central to our goal to provide useful and unique information to our users about the college search process.  A full analysis of why we chose this design and storyboards for these two tasks can be found [here](/design_review.md).
 
