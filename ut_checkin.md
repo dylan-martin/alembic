@@ -85,7 +85,7 @@ After having conducted usability tests with college students, we now need to run
 
 * The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person. 
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_2.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_chat_revise.png" width="40%" height="40%"/>
 
 * This interface allows the user to chat with another user. At the top-left corner, the back arrow takes the user back to the previous page. The name of the person with whom the user is chatting is displayed at the top. At the top-right corner are options for audio call and video call.  Messages are shown in the main body of the interface, with the other person’s messages on the right. At the bottom, the user can enter a message and press “send” to send.
 
