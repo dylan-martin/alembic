@@ -106,7 +106,7 @@ After they complete their profile and press the "done" button, they will be dire
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
 
-### Start Conversations
+### Find Users with Similar Interests
  
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections.jpeg" width="40%" height="40%"/>
 
@@ -115,6 +115,8 @@ After they complete their profile and press the "done" button, they will be dire
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="40%" height="40%"/>
 
 * After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
+
+### Start Conversations
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
 
