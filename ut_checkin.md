@@ -40,7 +40,11 @@ For a list of the issues identified in our original paper prototype through the 
 
 ## Usability Testing
 
-We conducted three usability tests with our paper prototype.  All participants were current Williams college students and the tests were conducted in the common area of a Williams dorm.  We chose this location to replicate the settings in which current students would likely interact with our platform--because it is a mobile app designed to promote casual conversation, we expect users to engage with it in familiar and comfortable environments while there are distractions around them.  This environment choice was valuable in our testing, as it demonstrated which aspects of our interface demanded the most attention from users, and which aspects were most engaging to the participants.  While it may be hard to replicate this environment with applicant users (it may be difficulr
+We conducted three usability tests with our paper prototype.  All participants were current Williams college students and the tests were conducted in the common area of a Williams dorm.  We chose this location to replicate the settings in which current students would likely interact with our platform--because it is a mobile app designed to promote casual conversation, we expect users to engage with it in familiar and comfortable environments while there are distractions around them.  This environment choice was valuable in our testing, as it demonstrated which aspects of our interface demanded the most attention from users, and which aspects were most engaging to the participants.  While it may be hard to replicate this environment with applicant users (it may be difficult to meet with high school students in similarly familiar environments), we hope to replicate this in future tests.  Our participants were all current seniors at Williams.  We chose these individuals because they have significant experience speaking to personal acquaintances about the college search process and hoped to see how this experience would translate into interacting with our platform.  
+
+For each usability test, we gave the participant a general overview of the purpose of College Connect, and explained the aims of our test.  We then provided basic information about how to interact with the paper prototype (e.g. explaining that sticky notes represent text entry fields).  After providing these basic instructions, we placed the intial (log-in) screen in front of the user and provided them with the first task of finding another user with similar interests to them.  After they completed this task (generally ending on the personal profile of the user they found), we posed the second task of communicating with this user over the platform.  We chose to modify the phrasing of this second task to make it more applicable to the prototype.  After completing this task, we asked the participants for any concluding remarks on the interface.  Throughout this process, Dylan acted as facilitator, Julian as computer, and Wei as observer.  The largest difficulty that we found throughout this process was the participant's unwillingness to use the video and audio chat features.  We hope to remedy this and further test these elements of the platform by having a user (the computer) initiate a call with the participant, and observing how they interact over these media.  Additionally, we hope to encourage participants in future tests to think aloud more actively throughout the process.
+
+We additionally 
 
 ## Results From Usability Tests
 
@@ -54,9 +58,9 @@ We conducted three usability tests with our paper prototype.  All participants w
 
 ### Negative Incidents
 
-* One user did not press the "Done" button after finishing filling out personal information.  Instead, he went directly to the potential connections tab.  We think this is a SEVERITY LEVEL HERE SEVERITY LEVEL HERE level incident. 
+* One user did not press the "Done" button after finishing filling out personal information.  Instead, he went directly to the potential connections tab.  We think this is a level 2 incident, which does not inhibit use of the app, but could cause users to get lost when first using the platform. 
 
-ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he3.png" width="40%" height="40%"/>
 
 To address the issue, we made the following revision:
 
