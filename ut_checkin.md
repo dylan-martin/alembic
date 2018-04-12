@@ -38,4 +38,4 @@ We conducted three usability tests with our paper prototype.  All participants w
 
 ## Future Plans
 
-After having conducted usability tests with college students, we now need to run usability tests with college applicants to get an understanding of how they will interact with our app. We will ask the user to make voice/video calls and have real-time conversations. 
+After having conducted usability tests with college students, we now need to run usability tests with college applicants to get an understanding of how they will interact with our app. We will ask the user to make voice/video calls and have real-time conversations - something current college students were hesistant of doing.
