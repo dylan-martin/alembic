@@ -16,11 +16,9 @@ from Trendy Trash.  The second group included Dylan Martin from our team, and Ga
 
 We will make the following adjustment based on the feedback we received from users:
 
-* Add help links to all pages
-* Options narrowing down matches
-* Highlight fields that matched with user's interests when suggesting other users with similar interests
 * Enable audio calls
 * Make two registration screens for the two types of users
 * Add submit/done button for registering
-
+* Add option to go back on registration page
+* Change college/name text fields layout so that the text can be displayed well 
 
