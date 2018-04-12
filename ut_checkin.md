@@ -7,8 +7,6 @@ For a list of the issues identified in our original paper prototype through the 
 
 ## Creating User Profile
 
-### Personal Profile Page
-
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he3.png" width="40%" height="40%"/>
 
 * We added seperate personal profile creation pages for college applicants (right) and current college students (left).  The primary difference between these pages is in the "College"/"School List" entry areas.  The page for college students has a text-entry field where users can enter the college they attend.  The page for applicants replaces this with a drop-down entry field for the user's list of potential colleges, reflecting the different uses of the platform by these user segments.
