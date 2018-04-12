@@ -84,6 +84,8 @@ After having conducted usability tests with college students, we now need to run
 
 ## Overview
 
+![overview](/img/revised_overview.png)
+
 ### Share Personal information
 
 Upon first opening the College Connect app, users are presented with a simple welcome screen.
