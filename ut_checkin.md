@@ -66,15 +66,15 @@ To address the issue, we made the following revision:
 
 Here, we placed the "done" button in an oval to draw attention to it and to make its design more in line with that of other buttons on the platform.
 
-* After clicking "continue" on the page that says "See your potential connections", two users were unaware that they were already on the potential connections page.  We think this is a SEVERITY LEVEL HERE SEVERITY LEVEL HERE level incident. 
+* After clicking "continue" on the page that says "See your potential connections", two users were unaware that they were already on the potential connections page. We think this is a low-level severity incident. 
 
-ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connections.png" width="40%" height="40%"/>
 
 To address the issue, we made the following revision:
 
-REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections.jpeg" width="40%" height="40%"/>
 
-DESCRIBE REVISION DESCRIBE REVISION  DESCRIBE REVISION
+The currently selected tab is written at the top, with a back button for easier navigation, while the darker colors on the bottom button will make it clear that it is chosen.
 
 ## Future Plans
 
@@ -107,6 +107,15 @@ After they complete their profile and press the "done" button, they will be dire
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
 
 ### Start Conversations
+ 
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections.jpeg" width="40%" height="40%"/>
+
+* Once the user has input their interests, they will see a list of either college or applicant students with similar interests. They can then select someone to learn more about them and other shared information.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="40%" height="40%"/>
+
+* After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
+
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
 
 * The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person. 
