@@ -25,7 +25,7 @@ For a list of the issues identified in our original paper prototype through the 
 
 * We added a page, which users will be directed to after completing their personal profile and clicking the "done" button, which will guide users to the "Potential Connections" page.  This will remove ambiguity about how to navigate to the appropriate next section of the app.
 
-## Start Conversations
+### Start Conversations
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="40%" height="40%"/>
 
 * We added an option for audio calls, as seen on the upper-right corner.  This gives the user the option to only use audio call instead of video call, thus addressing the heuristic on privacy.
