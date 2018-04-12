@@ -40,7 +40,7 @@ For a list of the issues identified in our original paper prototype through the 
 
 ## Usability Testing
 
-We conducted three usability tests with our paper prototype.  All participants were current Williams college students and the tests were conducted in the common area of a Williams dorm.  We chose this location to replicate the settings in which current students would likely interact with our platform--because it is a mobile app deisgned to promote casual conversation, we expect users to engage with it in familiar and comfortable environments while there are distractions around them.  This environment choice was valuable in our testing, as it demonstrated which aspects of our interface demanded the most attention from users, and which aspects were most engaging to the participants.  While it may be hard to replicate this environment with applicant users (it may be difficulr
+We conducted three usability tests with our paper prototype.  All participants were current Williams college students and the tests were conducted in the common area of a Williams dorm.  We chose this location to replicate the settings in which current students would likely interact with our platform--because it is a mobile app designed to promote casual conversation, we expect users to engage with it in familiar and comfortable environments while there are distractions around them.  This environment choice was valuable in our testing, as it demonstrated which aspects of our interface demanded the most attention from users, and which aspects were most engaging to the participants.  While it may be hard to replicate this environment with applicant users (it may be difficulr
 
 ## Results From Usability Tests
 
@@ -77,3 +77,34 @@ DESCRIBE REVISION DESCRIBE REVISION  DESCRIBE REVISION
 ## Future Plans
 
 After having conducted usability tests with college students, we now need to run usability tests with college applicants to get an understanding of how they will interact with our app. We will have a member of our team respond to the user's message and ask the user to make voice/video calls and have real-time conversations, so that they are less hesitant to make these actions than in cases without presence of message replies.
+
+## Current Paper Prototype
+
+### Start Conversations
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
+
+* The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person. 
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_2.png" width="40%" height="40%"/>
+
+* This interface allows the user to chat with another user. At the top-left corner, the back arrow takes the user back to the previous page. The name of the person with whom the user is chatting is displayed at the top. At the top-right corner are options for audio call and video call.  Messages are shown in the main body of the interface, with the other person’s messages on the right. At the bottom, the user can enter a message and press “send” to send.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="40%" height="40%"/>
+
+* Sent message.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_2.png" width="40%" height="40%"/>
+
+* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_3.png" width="40%" height="40%"/>
+
+* Sample audio call. The user can press “End Call” to end the call.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_4.png" width="40%" height="40%"/>
+
+* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_5.png" width="40%" height="40%"/>
+
+* Sample video call. The user can press “End Call” to end the call.
