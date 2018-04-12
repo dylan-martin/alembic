@@ -44,8 +44,6 @@ We conducted three usability tests with our paper prototype.  All participants w
 
 For each usability test, we gave the participant a general overview of the purpose of College Connect, and explained the aims of our test.  We then provided basic information about how to interact with the paper prototype (e.g. explaining that sticky notes represent text entry fields).  After providing these basic instructions, we placed the intial (log-in) screen in front of the user and provided them with the first task of finding another user with similar interests to them.  After they completed this task (generally ending on the personal profile of the user they found), we posed the second task of communicating with this user over the platform.  We chose to modify the phrasing of this second task to make it more applicable to the prototype.  After completing this task, we asked the participants for any concluding remarks on the interface.  Throughout this process, Dylan acted as facilitator, Julian as computer, and Wei as observer.  The largest difficulty that we found throughout this process was the participant's unwillingness to use the video and audio chat features.  We hope to remedy this and further test these elements of the platform by having a user (the computer) initiate a call with the participant, and observing how they interact over these media.  Additionally, we hope to encourage participants in future tests to think aloud more actively throughout the process.
 
-We additionally 
-
 ## Results From Usability Tests
 
 ### Positive Incidents
@@ -85,6 +83,24 @@ After having conducted usability tests with college students, we now need to run
 ## Current Paper Prototype
 
 ## Overview
+
+### Share Personal information
+
+Upon first opening the College Connect app, users are presented with a simple welcome screen.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_welcome.png" width="40%" height="40%"/>
+
+If the user has already created a College Connect profile, they will log in and be directed to their "Conversations" page (see below).  If this is a new user, they will select "New User" and will be directed to a screen allowing them to choose their user type.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_select.png" width="40%" height="40%"/>
+
+After the user selects the appropriate type, they will be directed to their personal profile screen, where they can share basic information about themselves.  The screen will be slightly different for current college students (left) and applicants (right)  This information includes their name, school (college students) or prospective schools (college applicants), class year, home town, interests, and a short personal bio.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp2.png" width="40%" height="40%"/>
+
+After they complete their profile and press the "done" button, they will be directed to this screen, which will guide them to the potential connections page.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
 
 ### Start Conversations
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
