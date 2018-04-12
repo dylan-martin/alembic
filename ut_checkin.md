@@ -13,11 +13,11 @@ For a list of the issues identified in our original paper prototype through the 
 
 * We made the text in the "Name," "College"/"School List," and "Class Year" fields write-over (e.g. the text "Name" will be replaced by the name the user enters) to make a more effective and reasonable layout for the page.
 
-* We added "(optional)" text to several fields, as well as a brief description of the entry requirments for the "Interests" field to make the process of creating a personal profile easier for users to follow.
+* We added "(optional)" text to several fields, as well as a brief description of the entry requirments for the "Interests" field to make the process of creating a personal profile easier for users to follow.  This addresses the "Help and Documentation" heuristic.
 
-* We added a "back" button at the top left of the screen to allow users to back track if they select the incorrect user type in the previous screen.
+* We added a "back" button at the top left of the screen to allow users to back track if they select the incorrect user type in the previous screen.  This addresses the "Clearly Marked Exits" heuristic.
 
-* We added a "done" button at the bottom left of the screen so that users can submit their information and be directed to the next section of the app.
+* We added a "done" button at the bottom left of the screen so that users can submit their information and be directed to the next section of the app.  This addresses the "Clearly Marked Exits" heuristic.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
 
