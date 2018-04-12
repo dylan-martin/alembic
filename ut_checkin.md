@@ -25,6 +25,8 @@ For a list of the issues identified in our original paper prototype through the 
 
 * We added a page, which users will be directed to after completing their personal profile and clicking the "done" button, which will guide users to the "Potential Connections" page.  This will remove ambiguity about how to navigate to the appropriate next section of the app.
 
+## Start Conversations
+
 ## Usability Testing
 
 We conducted three usability tests with our paper prototype.  All participants were current Williams college students and the tests were conducted in the common area of a Williams dorm.  We chose this location to replicate the settings in which current students would likely interact with our platform--because it is a mobile app deisgned to promote casual conversation, we expect users to engage with it in familiar and comfortable environments while there are distractions around them.  This environment choice was valuable in our testing, as it demonstrated which aspects of our interface demanded the most attention from users, and which aspects were most engaging to the participants.  While it may be hard to replicate this environment with applicant users (it may be difficulr
