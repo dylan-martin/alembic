@@ -64,9 +64,9 @@ We additionally
 
 To address the issue, we made the following revision:
 
-REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp2.png" width="40%" height="40%"/>
 
-DESCRIBE REVISION DESCRIBE REVISION  DESCRIBE REVISION
+Here, we placed the "done" button in an oval to draw attention to it and to make its design more in line with that of other buttons on the platform.
 
 * After clicking "continue" on the page that says "See your potential connections", two users were unaware that they were already on the potential connections page.  We think this is a SEVERITY LEVEL HERE SEVERITY LEVEL HERE level incident. 
 
