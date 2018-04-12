@@ -9,7 +9,7 @@ For a list of the issues identified in our original paper prototype through the 
 
 ### Personal Profile Page
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he1.png" width="50%" height="50%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he2.png" width="50%" height="50%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he3.png" width="40%" height="40%"/>
 
 * We added seperate personal profile creation pages for college applicants (right) and current college students (left).  The primary difference between these pages is in the "College"/"School List" entry areas.  The page for college students has a text-entry field where users can enter the college they attend.  The page for applicants replaces this with a drop-down entry field for the user's list of potential colleges, reflecting the different uses of the platform by these user segments.
 
@@ -19,6 +19,6 @@ For a list of the issues identified in our original paper prototype through the 
 
 * We added a "done" button at the bottom left of the screen so that users can submit their information and be directed to the next section of the app.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="50%" height="50%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
 
 * We added a page, which users will be directed to after completing their personal profile and clicking the "done" button, which will guide users to the "Potential Connections" page.  This will remove ambiguity about how to navigate to the appropriate next section of the app.
