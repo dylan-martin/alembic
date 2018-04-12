@@ -80,6 +80,8 @@ After having conducted usability tests with college students, we now need to run
 
 ## Current Paper Prototype
 
+## Overview
+
 ### Start Conversations
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
 
@@ -108,3 +110,4 @@ After having conducted usability tests with college students, we now need to run
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_5.png" width="40%" height="40%"/>
 
 * Sample video call. The user can press “End Call” to end the call.
+
