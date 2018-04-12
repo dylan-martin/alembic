@@ -42,6 +42,38 @@ For a list of the issues identified in our original paper prototype through the 
 
 We conducted three usability tests with our paper prototype.  All participants were current Williams college students and the tests were conducted in the common area of a Williams dorm.  We chose this location to replicate the settings in which current students would likely interact with our platform--because it is a mobile app deisgned to promote casual conversation, we expect users to engage with it in familiar and comfortable environments while there are distractions around them.  This environment choice was valuable in our testing, as it demonstrated which aspects of our interface demanded the most attention from users, and which aspects were most engaging to the participants.  While it may be hard to replicate this environment with applicant users (it may be difficulr
 
+## Results From Usability Tests
+
+### Positive Incidents
+
+* All users were able to complete the given tasks.
+
+* Overall, they found the interface easy to use, especially the chat interface.
+
+* Users liked being able to choose across text chat, audio call, and video call.
+
+### Negative Incidents
+
+* One user did not press the "Done" button after finishing filling out personal information.  Instead, he went directly to the potential connections tab.  We think this is a SEVERITY LEVEL HERE SEVERITY LEVEL HERE level incident. 
+
+ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE
+
+To address the issue, we made the following revision:
+
+REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE
+
+DESCRIBE REVISION DESCRIBE REVISION  DESCRIBE REVISION
+
+* After clicking "continue" on the page that says "See your potential connections", two users were unaware that they were already on the potential connections page.  We think this is a SEVERITY LEVEL HERE SEVERITY LEVEL HERE level incident. 
+
+ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE ORIGINAL IMAGE HERE
+
+To address the issue, we made the following revision:
+
+REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE REVISED IMAGE HERE
+
+DESCRIBE REVISION DESCRIBE REVISION  DESCRIBE REVISION
+
 ## Future Plans
 
 After having conducted usability tests with college students, we now need to run usability tests with college applicants to get an understanding of how they will interact with our app. We will have a member of our team respond to the user's message and ask the user to make voice/video calls and have real-time conversations, so that they are less hesitant to make these actions than in cases without presence of message replies.
