@@ -27,10 +27,16 @@ For a list of the issues identified in our original paper prototype through the 
 
 ## Start Conversations
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="40%" height="40%"/>
+
+* We added an option for audio calls, as seen on the upper-right corner.  This gives the user the option to only use audio call instead of video call, thus addressing the heuristic on privacy.
+
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_2.png" width="40%" height="40%"/>
+
+* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_3.png" width="40%" height="40%"/>
 
-
+* Sample audio call.  Center of the screen shows the other user's profile image.  Press "End Call" to end the call.
 
 ## Usability Testing
 
