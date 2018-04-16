@@ -59,7 +59,7 @@ The revisions that we consider the most important include:
 
 ![overview](/wl_overview.PNG)
 
-### Share Personal information
+### Share Personal Information
 
 Upon first opening the College Connect app, users are presented with a simple welcome screen.
 
