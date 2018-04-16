@@ -28,10 +28,10 @@ Jane identified three key issues with our current paper prototype.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login.png" width="40%" height="40%"/>
 
-2) Jane was concerned with privacy on the app.  As it is currently designed, any potential connection is able to send a message to other users and initiate conversations via text, audio, or video (audio and video require the other user to accept the call). WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION.
+2) Jane was concerned with privacy on the app.  As it is currently designed, it is not obvious what actions a user can take if another person sends a audio/video call request.  To resolve this, we add a accept/decline interface for the user.  The user can press "accept" to accept the call, or press "decline" to decline the call.
 
-PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS
+PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS.
 
-3) Users should be better able to search for people with particular attributes in their potential connections. WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION.
+3) Users should be better able to search for people with particular attributes in their potential connections. Previously, users did not have an option to do so.  To resolve this, we added a search interface, which can be accessed when the user presses the "search" button on the page that contains the list of potential connections.
 
 PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS
