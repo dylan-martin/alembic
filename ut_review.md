@@ -30,7 +30,7 @@ Jane identified three key issues with our current paper prototype.
 
 2) Jane was concerned with privacy on the app.  As it is currently designed, it is not obvious what actions a user can take if another person sends a audio/video call request.  To resolve this, we add a accept/decline interface for the user.  The user can press "accept" to accept the call, or press "decline" to decline the call.
 
-PICTURE OF ACCEPT\DECLINE CALL PICTURE OF ACCEPT\DECLINE CALL PICTURE OF ACCEPT\DECLINE CALL
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_accept.jpg" width="40%" height="40%"/>
 
 3) Users should be better able to search for people with particular attributes in their potential connections. Previously, users did not have an option to do so.  To resolve this, we added a search interface, which can be accessed when the user presses the "search" button on the page that contains the list of potential connections.
 
@@ -38,9 +38,10 @@ Before:
 PICTURE OF POTENTIAL CONNECTIONS BEFORE PICTURE OF POTENTIAL CONNECTIONS BEFORE PICTURE OF POTENTIAL CONNECTIONS BEFORE PICTURE OF POTENTIAL CONNECTIONS BEFORE
 
 After: 
-PICTURE OF LIST OF CONNECTED PEOPLE PICTURE OF LIST OF CONNECTED PEOPLE  PICTURE OF LIST OF CONNECTED PEOPLE 
 
-PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_connections.jpg" width="40%" height="40%"/>
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_search.jpg" width="40%" height="40%"/>
 
 ### Important Revisions
 The revisions that we consider the most important include:
@@ -84,42 +85,50 @@ After they complete their profile and press the "done" button, they will be dire
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
 
 ### Find Users with Similar Interests
- 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections.jpeg" width="40%" height="40%"/>
 
-* Once the user has input their interests, they will see a list of either college or applicant students with similar interests. They can then select someone to learn more about them and other shared information.
+Once the user has input their interests, they will see a list of either college or applicant students with similar interests. They can then select someone to learn more about them and other shared information. 
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_connections" width="40%" height="40%"/>
+
+After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="40%" height="40%"/>
 
-* After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
+The user can also press "search" on the list of people page for a more customized search.  
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_search.jpg" width="40%" height="40%"/>
 
 ### Start Conversations
 
+The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person.
+
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
 
-* The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person. 
+This interface allows the user to chat with another user. At the top-left corner, the back arrow takes the user back to the previous page. The name of the person with whom the user is chatting is displayed at the top. At the top-right corner are options for audio call and video call.  Messages are shown in the main body of the interface, with the other person’s messages on the right. At the bottom, the user can enter a message and press “send” to send.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_chat_revise.png" width="40%" height="40%"/>
 
-* This interface allows the user to chat with another user. At the top-left corner, the back arrow takes the user back to the previous page. The name of the person with whom the user is chatting is displayed at the top. At the top-right corner are options for audio call and video call.  Messages are shown in the main body of the interface, with the other person’s messages on the right. At the bottom, the user can enter a message and press “send” to send.
+Sent message.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="40%" height="40%"/>
 
-* Sent message.
+Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_2.png" width="40%" height="40%"/>
 
-* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+Sample audio call. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_3.png" width="40%" height="40%"/>
 
-* Sample audio call. The user can press “End Call” to end the call.
+Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_4.png" width="40%" height="40%"/>
 
-* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+Sample video call. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_5.png" width="40%" height="40%"/>
 
-* Sample video call. The user can press “End Call” to end the call.
+The other person can choose to accept or deline the call.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_accept.jpg" width="40%" height="40%"/>
 
