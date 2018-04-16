@@ -10,7 +10,7 @@ layout: page
 
 * Alex: A current senior at Williams College studying economics.  Alex plays Ultimate Frisbee at Williams.  He is relatively unexperienced in speaking to prospective students about his college experience.
 
-* Jane: A current high school senior from Massachusetts who was recently admitted to several colleges and is currently deciding where she will attend school.  She is involved in Mock Trial, speech and debate, and plays Volleyball in school.  She is considering pursuing all of these interests in college.
+* Jane: A current high school senior from Massachusetts who was recently admitted to several colleges and is currently deciding where she will attend school.  She is involved in Mock Trial, speech and debate, and plays volleyball in school.  She is considering pursuing all of these interests in college.
 
 ### Analysis
 
