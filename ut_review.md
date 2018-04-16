@@ -41,3 +41,85 @@ After:
 PICTURE OF LIST OF CONNECTED PEOPLE PICTURE OF LIST OF CONNECTED PEOPLE  PICTURE OF LIST OF CONNECTED PEOPLE 
 
 PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE
+
+### Important Revisions
+The revisions that we consider the most important include:
+
+* Addition of back buttons.  The lack of back buttons was a critical design flaw.  Although the navigation tabs at the bottom made it clear for users how to navigate between the main pages, navigating between pages that belong to the same tab was confusing.  By adding the back button, the user is able to go back to the previous page, without having to think about how he/she got to the current page.  This makes the design more clear, and the interface easier to use.
+
+* Separate personal profile creation pages for college applicants and current college students.  Before this revision, our interface had the same page for the two types of users.  This is a design flaw, because the two user groups have different purposes in using our product.  Whereas for the college applicants the focus is on the numerous colleges that they could be interested in, for the current college students, the focus is on their college and the applicants who might be interested in it.  Our revision reflects these considerations:  The page for college students has a text-entry field where users can enter the college they attend, whereas the page for applicants replaces this with a drop-down entry field for the user’s list of potential colleges.
+
+* Addition of search interface.   Previously, if users had changed their interests, there was no obvious way for them to search for potential connections using the updated interests.  Also, the searches were done automatically, such that the users have no option for customized search.  In our revision, we added a search interface that allows users to perform a manual search, thereby helping them look for people with particular attributes in their potential connections.
+
+## Current Paper Prototype
+
+## Overview
+
+![overview](/img/revised_overview.png)
+
+### Share Personal information
+
+Upon first opening the College Connect app, users are presented with a simple welcome screen.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_welcome.png" width="40%" height="40%"/>
+
+If the user has already created a College Connect profile, they will log in and be directed to their "Conversations" page:
+
+ <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login.png" width="40%" height="40%"/>
+
+If this is a new user, they will select "New User" and will be directed to a screen allowing them to designate a username and a password: 
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof.png" width="40%" height="40%"/>
+
+After the user presses "done", they are redirected to a page that lets them choose their user type.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_select.png" width="40%" height="40%"/>
+
+After the user selects the appropriate type, they will be directed to their personal profile screen, where they can share basic information about themselves.  The screen will be slightly different for current college students (left) and applicants (right)  This information includes their name, school (college students) or prospective schools (college applicants), class year, home town, interests, and a short personal bio.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp2.png" width="40%" height="40%"/>
+
+After they complete their profile and press the "done" button, they will be directed to this screen, which will guide them to the potential connections page.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
+
+### Find Users with Similar Interests
+ 
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections.jpeg" width="40%" height="40%"/>
+
+* Once the user has input their interests, they will see a list of either college or applicant students with similar interests. They can then select someone to learn more about them and other shared information.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="40%" height="40%"/>
+
+* After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
+
+### Start Conversations
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
+
+* The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person. 
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_chat_revise.png" width="40%" height="40%"/>
+
+* This interface allows the user to chat with another user. At the top-left corner, the back arrow takes the user back to the previous page. The name of the person with whom the user is chatting is displayed at the top. At the top-right corner are options for audio call and video call.  Messages are shown in the main body of the interface, with the other person’s messages on the right. At the bottom, the user can enter a message and press “send” to send.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="40%" height="40%"/>
+
+* Sent message.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_2.png" width="40%" height="40%"/>
+
+* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_3.png" width="40%" height="40%"/>
+
+* Sample audio call. The user can press “End Call” to end the call.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_4.png" width="40%" height="40%"/>
+
+* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_5.png" width="40%" height="40%"/>
+
+* Sample video call. The user can press “End Call” to end the call.
+
