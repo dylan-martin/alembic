@@ -57,7 +57,7 @@ The revisions that we consider the most important include:
 
 ## Overview
 
-![overview](/img/revised_overview.png)
+![overview](/wl_overview.PNG)
 
 ### Share Personal information
 
