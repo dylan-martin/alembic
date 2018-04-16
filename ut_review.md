@@ -26,6 +26,8 @@ Jane identified three key issues with our current paper prototype.
 
 1) While we present a log in option in the opening screen, we did not support its functionality.  To resolve this, we added a screen, which comes before a new users is prompted to select their user type, which allows them to create a username and password for future access.  Additionally, we added a log in screen which will direct users to their current conversations page upon the entry of their previously set username and password.
 
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login.png" width="40%" height="40%"/>
+
 2) Jane was concerned with privacy on the app.  As it is currently designed, any potential connection is able to send a message to other users and initiate conversations via text, audio, or video (audio and video require the other user to accept the call). WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION WRITE SOLUTION.
 
 PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS
