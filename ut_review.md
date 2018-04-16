@@ -30,8 +30,14 @@ Jane identified three key issues with our current paper prototype.
 
 2) Jane was concerned with privacy on the app.  As it is currently designed, it is not obvious what actions a user can take if another person sends a audio/video call request.  To resolve this, we add a accept/decline interface for the user.  The user can press "accept" to accept the call, or press "decline" to decline the call.
 
-PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS.
+PICTURE OF ACCEPT\DECLINE CALL PICTURE OF ACCEPT\DECLINE CALL PICTURE OF ACCEPT\DECLINE CALL
 
 3) Users should be better able to search for people with particular attributes in their potential connections. Previously, users did not have an option to do so.  To resolve this, we added a search interface, which can be accessed when the user presses the "search" button on the page that contains the list of potential connections.
 
-PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS PICTURE OF REVISIONS
+Before:
+PICTURE OF POTENTIAL CONNECTIONS BEFORE PICTURE OF POTENTIAL CONNECTIONS BEFORE PICTURE OF POTENTIAL CONNECTIONS BEFORE PICTURE OF POTENTIAL CONNECTIONS BEFORE
+
+After: 
+PICTURE OF LIST OF CONNECTED PEOPLE PICTURE OF LIST OF CONNECTED PEOPLE  PICTURE OF LIST OF CONNECTED PEOPLE 
+
+PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE PICTURE OF SEARCH INTERFACE
