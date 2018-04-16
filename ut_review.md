@@ -35,6 +35,7 @@ Jane identified three key issues with our current paper prototype.
 3) Users should be better able to search for people with particular attributes in their potential connections. Previously, users did not have an option to do so.  To resolve this, we added a search interface, which can be accessed when the user presses the "search" button on the page that contains the list of potential connections.
 
 Before:
+
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections.jpeg" width="40%" height="40%"/>
 
 After: 
