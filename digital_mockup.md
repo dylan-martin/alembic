@@ -40,17 +40,17 @@ After the user selects the appropriate type, they will be directed to their pers
 
 After they complete their profile and press the "done" button, they will be directed to this screen, which will guide them to the potential connections page.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_cpc.png" width="40%" height="40%"/>
 
 ### Find Users with Similar Interests
 
 Once the user has input their interests, they will see a list of either college or applicant students with similar interests. They can then select someone to learn more about them and other shared information. 
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_connections.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mu_pc.jpg" width="40%" height="40%"/>
 
 After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_upp.png" width="40%" height="40%"/>
 
 The user can also press "search" on the list of people page for a more customized search.  
 
