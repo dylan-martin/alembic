@@ -46,7 +46,7 @@ After they complete their profile and press the "done" button, they will be dire
 
 Once the user has input their interests, they will see a list of either college or applicant students with similar interests. They can then select someone to learn more about them and other shared information. 
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_pc.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_pc.png" width="40%" height="40%"/>
 
 After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
 
