@@ -24,7 +24,7 @@ Upon first opening the College Connect app, users are presented with a simple we
 
 If the user has already created a College Connect profile, they will log in and be directed to their "Conversations" page:
 
- <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login.png" width="40%" height="40%"/>
+ <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_login.png" width="40%" height="40%"/>
 
 If this is a new user, they will select "New User" and will be directed to a screen allowing them to designate a username and a password: 
 
@@ -36,7 +36,7 @@ After the user presses "done", they are redirected to a page that lets them choo
 
 After the user selects the appropriate type, they will be directed to their personal profile screen, where they can share basic information about themselves.  The screen will be slightly different for current college students (left) and applicants (right)  This information includes their name, school (college students) or prospective schools (college applicants), class year, home town, interests, and a short personal bio.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_pprof.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp2.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_pprof.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_pprof_a.png" width="40%" height="40%"/>
 
 After they complete their profile and press the "done" button, they will be directed to this screen, which will guide them to the potential connections page.
 
