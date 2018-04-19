@@ -72,20 +72,16 @@ Sent message.
 
 Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_wait.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_wait.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_acc.png" width="40%" height="40%"/>
 
 Sample audio call. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_chat.png" width="40%" height="40%"/>
 
-Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+Interface after pressing the video call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_acc.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_vid_wait.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_vid_acc.png" width="40%" height="40%"/>
 
 Sample video call. The user can press “End Call” to end the call.
-
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_vid_wait.png" width="40%" height="40%"/>
-
-The other person can choose to accept or deline the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_vid_chat.png" width="40%" height="40%"/>
