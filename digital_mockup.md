@@ -9,10 +9,26 @@ layout: page
 
 ## Decisions and Changes
 
-We kept our digital mock-up much the same as our final paper prototype.  We chose to use Balsamiq to make our mock-up, as we believe that the "wire-frame" style of the program will help us to continue receiving feedback on our design as a work in progress and communicate to test participants that we are still in a phase of design where we are testing functionality rather than aesthetics.  We found that the screens developed for the paper prototype throughout the usability testing process effectively covered the functionality that we hoped to provide in our prototype.  Additionally,   We made a few cosmetic changes to the paper prototype in the process of adapting it into a digital mock-up:
+We kept our digital mock-up much the same as our final paper prototype.  We chose to use Balsamiq to make our mock-up, as we believe that the "wire-frame" style of the program will help us to continue receiving feedback on our design as a work in progress and communicate to test participants that we are still in a phase of design where we are testing functionality rather than aesthetics.  The changes we made for making the digital mockup include:
 
-* Some buttons were changed into icons (e.g. the help button on the screens where the user is creating their profile is now represented by a "?" icon).
+* The help button on the screens where the user creates their profile is now represented by a "?" icon.  
+
 * Some basic changes were made to the layout of the screens to make them better fit the Balsamiq templates (e.g. moving the "add club" and "add sport" options next to their respective search catagories on the potential connections search page).
+
+* We added College Connect logos to our pages, so that users know that they are on the College Connect app.
+
+* We added retrieve and reset password pages, in case that the user forgets their password.
+
+* We added a "confirm password" field, so that users won't accidentally enter the wrong password for registration.
+
+* We made the text on bottom navigation buttons larger, so now it is easier for users to see.
+
+* We removed "see potential connections" page, so users don't have to press an extra button to get to the connections page.
+
+* We made the audio/video chat interface more specialized for College Connect by displaying name, school, and common interests on the audio/video call invitation page.
+
+* We made the video chat interface larger.  Now users can make better eye contact with each other while on video chat.
+
 
 ## Overview
 
