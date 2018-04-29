@@ -5,7 +5,7 @@ layout: page
 
 ## Mock-Up
 
-![Overview](/img/mockup_overview.png)
+![Overview](/mockup_overview.png)
 
 ## Decisions and Changes
 
