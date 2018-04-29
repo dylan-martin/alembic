@@ -101,7 +101,7 @@ Sent message.
 This is the interface after the user presses the audio call button. It waits for the other side to accept the request. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2018.png" width="40%" height="40%"/>
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2020.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2020.png" width="38%" height="40%"/>
 
 Sample audio call. The user can press “End Call” to end the call.
 
@@ -110,7 +110,7 @@ Sample audio call. The user can press “End Call” to end the call.
 This is the interface after the user presses the video call button. It waits for the other side to accept the request. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2019.png" width="40%" height="40%"/>
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2021.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2021.png" width="38%" height="40%"/>
 
 Sample video call. The user can press “End Call” to end the call.
 
