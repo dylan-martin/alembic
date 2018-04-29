@@ -58,7 +58,7 @@ The user can also press "search" on the list of people page for a more customize
 
 ### Start Conversations
 
-The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person.
+The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, ordered by recent messages. The user can press the tab with the person’s name to begin chatting with that person.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_convos.png" width="40%" height="40%"/>
 
@@ -70,7 +70,7 @@ Sent message.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_con2.png" width="40%" height="40%"/>
 
-Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+This is the interface after the user presses the audio call button. It waits for the other side to accept the request. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_wait.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_acc.png" width="40%" height="40%"/>
 
@@ -78,7 +78,7 @@ Sample audio call. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_aud_chat.png" width="40%" height="40%"/>
 
-Interface after pressing the video call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+This is the interface after the user presses the video call button. It waits for the other side to accept the request. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_vid_wait.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/mu_vid_acc.png" width="40%" height="40%"/>
 
