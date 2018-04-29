@@ -60,8 +60,7 @@ After the user presses "done", they are redirected to a page that lets them choo
 
 After the user selects the appropriate type, they will be directed to their personal profile screen, where they can share basic information about themselves.  The screen will be slightly different for current college students (left) and applicants (right)  This information includes their name, school (college students) or prospective schools (college applicants), class year, home town, interests, and a short personal bio.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%209.png" width="40%" height="40%"/>
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2010.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%209.png" width="40%" height="40%"/><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2010.png" width="40%" height="40%"/>
 
 
 After they complete their profile and press the "done" button, they will be directed to the potential connections page.
@@ -100,8 +99,7 @@ Sent message.
 
 This is the interface after the user presses the audio call button. It waits for the other side to accept the request. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2018.png" width="40%" height="40%"/>
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2020.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2018.png" width="40%" height="40%"/><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2020.png" width="40%" height="40%"/>
 
 Sample audio call. The user can press “End Call” to end the call.
 
@@ -109,8 +107,7 @@ Sample audio call. The user can press “End Call” to end the call.
 
 This is the interface after the user presses the video call button. It waits for the other side to accept the request. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2019.png" width="40%" height="40%"/>
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2021.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2019.png" width="40%" height="40%"/><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2021.png" width="40%" height="40%"/>
 
 Sample video call. The user can press “End Call” to end the call.
 
