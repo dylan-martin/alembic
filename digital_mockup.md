@@ -77,7 +77,7 @@ After they have selected a student, they can decide to initiate a conversation a
 
 The user can also press "search" on the list of people page for a more customized search.  
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2012.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2012.png" width="45%" height="40%"/>
 
 
 ### Start Conversations
@@ -107,7 +107,7 @@ Sample audio call. The user can press “End Call” to end the call.
 
 This is the interface after the user presses the video call button. It waits for the other side to accept the request. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2019.png" width="40%" height="40%"/><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2021.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2019.png" width="43%" height="70%"/><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2021.png" width="40%" height="40%"/>
 
 Sample video call. The user can press “End Call” to end the call.
 
