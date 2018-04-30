@@ -25,3 +25,15 @@ We conducted four usability tests with our paper prototype, updating and expandi
 ### Testing Results
 
 We changed our paper prototype at several stages throughout the testing process.  To see changes made following a heurisitic analysis and design critique of our initial paper prototype, see the "Updates from Heuristic Analysis and Peer Review" section of our [Usability Testing Check-In](/ut_checkin.md).  To see updates made after our first three usability tests, see the "Results from Usability Tests" section of our [Usability Testing Check-In](/ut_checkin.md).  Finally, to see the results of our final usability test, see the "Critical Issues" and "Important Revisions" sections of our [Usability Testing Review](/ut_review.md).
+
+### Final Paper Prototype
+
+See our final paper prototype in the "Current Paper Prototype" section of our [Usability Testing Review](/ut_review.md).  This final iteration on our prototype was the product of the iterative design process documented above and the implementation of our testing results in the form of a paper prototype.
+
+### Digital Mockup
+
+See our digital mockup [here](/digital_mockup.md).  Our mockup was largely a translation of our paper prototype into the Balsamiq mockup platform.  We incorporated some aesthetic changes to our paper prototype to better model a fully implemented platform in our mockup, and have modified the mockup to match feedback recieved in class.
+
+### Discussion
+
+
