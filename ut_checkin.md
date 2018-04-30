@@ -3,6 +3,13 @@ title: Usability Testing Check-In
 layout: page
 ---
 
+## Problems Identified in Heuristic Evaluation
+----------------------------------------------------------------------------------------------------------------------------------------
+|             Heuristic              |                          Problem                                       |     Severity Rating    |
+----------------------------------------------------------------------------------------------------------------------------------------
+| User Control & Freedom  | What options are there for users who do not fall into one of the main user types? | 2                      |
+----------------------------------------------------------------------------------------------------------------------------------------
+
 For a list of the issues identified in our original paper prototype through the heuristic evaluation process, please see our analysis of these results [here](/user_test.md).
 
 ## Updates from Heuristic Analysis
