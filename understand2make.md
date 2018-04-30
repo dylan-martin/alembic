@@ -36,4 +36,3 @@ See our digital mockup [here](/digital_mockup.md).  Our mockup was largely a tra
 
 ### Discussion
 
-
