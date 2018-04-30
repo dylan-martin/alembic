@@ -24,7 +24,7 @@ We conducted four usability tests with our paper prototype, updating and expandi
 
 ### Testing Results
 
-We changed our paper prototype at several stages throughout the testing process.  To see changes made following a heuristic analysis and design critique of our initial paper prototype, see the "Updates from Heuristic Analysis and Peer Review" section of our [Usability Testing Check-In](/ut_checkin.md).  To see updates made after our first three usability tests, see the "Results from Usability Tests" section of our [Usability Testing Check-In](/ut_checkin.md).  Finally, to see the results of our final usability test, see the "Critical Issues" and "Important Revisions" sections of our [Usability Testing Review](/ut_review.md).
+We changed our paper prototype at several stages throughout the testing process.  To see changes made following a heuristic analysis and design critique of our initial paper prototype, see the "Updates from Heuristic Analysis and Peer Review" section of our [Usability Testing Check-In](/ut_checkin.md).  To see updates made after our first three usability tests, see the "Results from Usability Tests" section of our [Usability Testing Check-In](/ut_checkin.md).  To see the results of our final usability test, see the "Critical Issues" and "Important Revisions" sections of our [Usability Testing Review](/ut_review.md).
 
 ### Final Paper Prototype
 
