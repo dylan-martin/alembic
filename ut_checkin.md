@@ -3,44 +3,56 @@ title: Usability Testing Check-In
 layout: page
 ---
 
-For a list of the issues identified in our original paper prototype through the heuristic evaluation process, please see our analysis of these results [here](/user_test.md).
+## Updates from Heuristic Analysis and Peer Review
 
-## Updates from Heuristic Analysis
+Note that some of the changes we made at this step were to the core functionality of the prototype and do not match the heurisitics listed in our readings.
 
 ### Creating User Profile
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he3.png" width="40%" height="40%"/>
 
 #### We did not have seperate personal profile creation pages for college students and applicants to support implied functionality in our prototype.
-_Heuristic Broken_: 
+_Heuristic Broken_: N/A
+
 _Severity Rating_: 4
+
 _Solution_: We added seperate personal profile creation pages for college applicants (right) and current college students (left).  The primary difference between these pages is in the "College"/"School List" entry areas.  The page for college students has a text-entry field where users can enter the college they attend.  The page for applicants replaces this with a drop-down entry field for the user's list of potential colleges, reflecting the different uses of the platform by these user segments.
 
 #### The layout of our personal profile creation page did not leave space for users to fill in certain fields.
 _Heuristic Broken_: N/A
+
 _Severity Rating_: 2
+
 _Solution_: We made the text in the "Name," "College"/"School List," and "Class Year" fields write-over (e.g. the text "Name" will be replaced by the name the user enters) to make a more effective and reasonable layout for the page.
 
 #### Not enough direction was given in our personal profile creation page about how to complete all fields.
 _Heuristic Broken_: Help and Documentation
+
 _Severity Rating_: 2
+
 _Solution_: We added "(optional)" text to several fields, as well as a brief description of the entry requirments for the "Interests" field to make the process of creating a personal profile easier for users to follow.
 
 #### There was no way for users to back track during profile creation if they made a mistake.
 _Heuristic Broken_: Clearly Marked Exits
+
 _Severity Rating_: 2
+
 _Solution_: We added a "back" button at the top left of the screen to allow users to back track if they select the incorrect user type in the previous screen.
 
 #### There was no clear next step after users completed all fields on their personal profile.
 _Heuristic Broken_: Clearly Marked Exits
+
 _Severity Rating_: 3
+
 _Solution_: We added a "done" button at the bottom left of the screen so that users can submit their information and be directed to the next section of the app.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
 
 #### Users often got lost searching through pages after completing their profile.
 _Heuristic Broken_: Help and Documentation
+
 _Severity Rating_: 2
+
 _Solution_: We added a page, which users will be directed to after completing their personal profile and clicking the "done" button, which will guide users to the "Potential Connections" page.  This will remove ambiguity about how to navigate to the appropriate next section of the app.
 
 ### Start Conversations
