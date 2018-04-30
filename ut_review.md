@@ -24,15 +24,24 @@ Because we conducted the test remotely, we were not able to fully control the en
 
 Jane identified three key issues with our current paper prototype.
 
-1) While we present a log in option in the opening screen, we did not support its functionality.  To resolve this, we added a screen, which comes before a new users is prompted to select their user type, which allows them to create a username and password for future access.  Additionally, we added a log in screen which will direct users to their current conversations page upon the entry of their previously set username and password.
+#### Log in functionality not supported.
+_Severity Rating_: 4
+
+While we present a log in option in the opening screen, we did not support its functionality.  To resolve this, we added a screen, which comes before a new users is prompted to select their user type, which allows them to create a username and password for future access.  Additionally, we added a log in screen which will direct users to their current conversations page upon the entry of their previously set username and password.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login.png" width="40%" height="40%"/>
 
-2) Jane was concerned with privacy on the app.  As it is currently designed, it is not obvious what actions a user can take if another person sends a audio/video call request.  To resolve this, we add a accept/decline interface for the user.  The user can press "accept" to accept the call, or press "decline" to decline the call.
+#### Privacy concerns over video/audio calls.
+_Severity Rating_: 3
+
+Jane was concerned with privacy on the app.  As it is currently designed, it is not obvious what actions a user can take if another person sends a audio/video call request.  To resolve this, we add a accept/decline interface for the user.  The user can press "accept" to accept the call, or press "decline" to decline the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_accept.jpg" width="40%" height="40%"/>
 
-3) Users should be better able to search for people with particular attributes in their potential connections. Previously, users did not have an option to do so.  To resolve this, we added a search interface, which can be accessed when the user presses the "search" button on the page that contains the list of potential connections.
+#### Inability to search through potential connections list.
+_Severity Rating_: 2
+
+Users should be better able to search for people with particular attributes in their potential connections. Previously, users did not have an option to do so.  To resolve this, we added a search interface, which can be accessed when the user presses the "search" button on the page that contains the list of potential connections.
 
 Before:
 
