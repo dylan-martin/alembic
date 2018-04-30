@@ -56,17 +56,24 @@ _Severity Rating_: 2
 _Solution_: We added a page, which users will be directed to after completing their personal profile and clicking the "done" button, which will guide users to the "Potential Connections" page.  This will remove ambiguity about how to navigate to the appropriate next section of the app.
 
 ### Start Conversations
+#### There was no option for audio calls.
+_Heuristic Broken_: N/A (Privacy)
+
+_Severity Rating_: 3
+
+_Solution_:
+
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="40%" height="40%"/>
 
-* We added an option for audio calls, as seen on the upper-right corner.  This gives the user the option to only use audio call instead of video call, thus addressing the heuristic on privacy.
+We added an option for audio calls, as seen on the upper-right corner.  This gives the user the option to only use audio call instead of video call, thus addressing the heuristic on privacy.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_2.png" width="40%" height="40%"/>
 
-* Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
+Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_3.png" width="40%" height="40%"/>
 
-* Sample audio call.  Center of the screen shows the other user's profile image.  Press "End Call" to end the call.
+Sample audio call.  Center of the screen shows the other user's profile image.  Press "End Call" to end the call.
 
 ## Usability Testing
 
