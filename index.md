@@ -41,26 +41,38 @@ Users can chat over text, audio, and video to learn more about life on college c
 <center>
 <table style="width:100%">
   <tr>
-    <center><td>DYLAN IMAGE</td></center>
-    <center><td>WEI PICTURE</td></center>
-    <center><td>JULIAN PICTURE</td></center>
+    <td>
+      <center>
+       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dylan_team.png" width="25%" height="25%"/>
+     </center>
+    </td>
+    <td>
+     <center>
+       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wei_team.png" width="25%" height="25%"/>
+     </center>
+    </td>
+    <td>
+     <center>
+       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/julian_team.png" width="25%" height="25%"/>
+     </center>
+    </td>
   </tr>
   <tr>
-   <center>
     <td>
+     <center>
      <a href="dylan-martin.github.io">Dylan Martin</a>
+     </center>
     </td>
-   </center>
-   <center>
     <td>
+     <center>
      <a href="https://wl5.github.io/">Wei Luo</a>
+     </center>
     </td>
-   </center>
-   <center>
     <td>
+     <center>
      <a href="https://verajulian.github.io/">Julian Vera</a>
+     </center>
     </td>
-   </center>
   </tr>
 </table>
 </center>
