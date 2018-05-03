@@ -6,6 +6,8 @@ layout: page
 
 * [Project Proposal](https://dylan-martin.github.io/college_connect/grpproposal/)
 
+* [Group Contract](https://dylan-martin.github.io/college_connect/contract/)
+
 ### Looking to Understand
 
 * [Contextual Inquiry Plan](https://dylan-martin.github.io/college_connect/ci/)
