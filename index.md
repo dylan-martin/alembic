@@ -1,6 +1,6 @@
 ---
 feature_text: |
- ## College Connect
+ # College Connect
  A platform to connect college applicants and students.
  
  
@@ -19,3 +19,6 @@ College Connect was inspired by a simple observation: learning about colleges is
     <source src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/video_prototype.mp4" type="video/mp4">
   </video>
 </figure>
+
+
+### How it works
