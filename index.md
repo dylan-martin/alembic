@@ -41,19 +41,17 @@ Users can chat over text, audio, and video to learn more about life on college c
 <table style="width:100%">
   <tr>
     <td>DYLAN IMAGE</td>
-    <td>
-      <a href="dylan-martin.github.io">Dylan Martin</a>
-   </td>
+    <td>WEI PICTURE</td>
+    <td>JULIAN PICTURE</td>
   </tr>
   <tr>
-    <td>WEI PICTURE</td>
+    <td>
+      <a href="dylan-martin.github.io">Dylan Martin</a>
+    </td>
     <td>
      <a href="https://wl5.github.io/">Wei Luo</a>
    </td>
-  </tr>
-  <tr>
-    <td>JULIAN PICTURE</td>
-    <td>
+   <td>
      <a href="https://verajulian.github.io/">Julian Vera</a>
    </td>
   </tr>
