@@ -89,19 +89,7 @@ repo: "https://github.com/dylan-martin/college_connect"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Looking to Understand: /look2understand/
-  Paper Prototype: /paper_proto/
-  Heuristic Evaluation: /h_eval/
-  Usability Test Check-in: /ut_checkin/
-  #Project Proposal: /grpproposal/
-  #Team Contract: /contract/
-  #Brainstorming: /brain/
-  #CI Plan: /ci/
-  #CI Check-In: /ci_checkin_1/
-  #CI Review: /cireview/
-  #Task Review: /taskreview/
-  #Design Check-In: /design_checkin/ 
-  #Design Review: /design_review/
+  Appendix: /appendix/
   
 navigation_footer:
   Template by David Darnes                                            : "https://github.com/daviddarnes"
