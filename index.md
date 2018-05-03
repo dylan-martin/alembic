@@ -38,6 +38,7 @@ Users can chat over text, audio, and video to learn more about life on college c
 <center><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2016.png" width="25%" height="25%"/></center>
 
 ### Our Team
+<center>
 <table style="width:100%">
   <tr>
     <center><td>DYLAN IMAGE</td></center>
@@ -62,3 +63,4 @@ Users can chat over text, audio, and video to learn more about life on college c
    </center>
   </tr>
 </table>
+</center>
