@@ -39,12 +39,12 @@ Users can chat over text, audio, and video to learn more about life on college c
 
 ### Our Team
 <table style="width:100%">
-  <td>
+  <th>
     <tr>DYLAN IMAGE</tr>
     <tr>
       <a href="dylan-martin.github.io">Dylan Martin</a>
    </tr>
-  </td>
+  </th>
   <td>
     <tr>WEI PICTURE</tr>
     <tr>
