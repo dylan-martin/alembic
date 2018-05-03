@@ -48,7 +48,7 @@ Users can chat over text, audio, and video to learn more about life on college c
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wei_team.png" width="60%" height="60%"/>
+       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_profile.png" width="60%" height="60%"/>
      </center>
     </td>
     <td>
