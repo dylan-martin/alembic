@@ -36,3 +36,25 @@ Applicants are matched with college students at their prospective colleges who s
 Users can chat over text, audio, and video to learn more about life on college campuses.
 
 <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2016.png" width="25%" height="25%"/>
+
+### Our Team
+<table style="width:100%">
+  <tr>
+    <th>DYLAN IMAGE</th>
+    <th>
+      <a href="dylan-martin.github.io">Dylan Martin</a>
+   </th>
+  </tr>
+  <tr>
+    <td>WEI PICTURE</td>
+    <td>
+     <a href="https://wl5.github.io/">Wei Luo</a>
+   </td>
+  </tr>
+  <tr>
+    <td>JULIAN PICTURE</td>
+    <td>
+     <a href="https://verajulian.github.io/">Julian Vera</a>
+   </td>
+  </tr>
+</table>
