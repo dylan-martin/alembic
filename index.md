@@ -39,22 +39,22 @@ Users can chat over text, audio, and video to learn more about life on college c
 
 ### Our Team
 <table style="width:100%">
-  <th>
-    <tr>DYLAN IMAGE</tr>
-    <tr>
+  <tr>
+    <td>DYLAN IMAGE</td>
+    <td>
       <a href="dylan-martin.github.io">Dylan Martin</a>
-   </tr>
-  </th>
-  <td>
-    <tr>WEI PICTURE</tr>
-    <tr>
+   </td>
+  </tr>
+  <tr>
+    <td>WEI PICTURE</td>
+    <td>
      <a href="https://wl5.github.io/">Wei Luo</a>
-   </tr>
-  </td>
-  <td>
-    <tr>JULIAN PICTURE</td>
-    <tr>
+   </td>
+  </tr>
+  <tr>
+    <td>JULIAN PICTURE</td>
+    <td>
      <a href="https://verajulian.github.io/">Julian Vera</a>
-   </tr>
-  </td>
+   </td>
+  </tr>
 </table>
