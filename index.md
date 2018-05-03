@@ -25,7 +25,7 @@ College Connect was inspired by a simple observation: learning about colleges is
 ##### Share Personal Information
 College Students and applicants create profiles that include their interests and other basic information.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2010.png" width="25%" height="25%"/> 
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2010.png" width="25%" height="25%" clas="center"/> 
 
 ##### Find Potential Connections
 Applicants are matched with college students at their prospective colleges who share their interests.
