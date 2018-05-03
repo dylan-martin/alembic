@@ -43,17 +43,17 @@ Users can chat over text, audio, and video to learn more about life on college c
   <tr>
     <td>
       <center>
-       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dylan_team.png" width="50%" height="50%"/>
+       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dylan_team.png" width="60%" height="60%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wei_team.png" width="50%" height="50%"/>
+       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wei_team.png" width="60%" height="60%"/>
      </center>
     </td>
     <td>
      <center>
-       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/julian_team.png" width="50%" height="50%"/>
+       <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/julian_team.png" width="60%" height="60%"/>
      </center>
     </td>
   </tr>
