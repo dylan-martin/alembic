@@ -25,7 +25,7 @@ College Connect was inspired by a simple observation: learning about colleges is
 ##### Share Personal Information
 College Students and applicants create profiles that include their interests and other basic information.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2010.png" width="25%" height="25%" clas="center"/> 
+<center><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2010.png" width="25%" height="25%"/></center>
 
 ##### Find Potential Connections
 Applicants are matched with college students at their prospective colleges who share their interests.
@@ -39,22 +39,22 @@ Users can chat over text, audio, and video to learn more about life on college c
 
 ### Our Team
 <table style="width:100%">
-  <tr>
-    <th>DYLAN IMAGE</th>
-    <th>
+  <td>
+    <tr>DYLAN IMAGE</tr>
+    <tr>
       <a href="dylan-martin.github.io">Dylan Martin</a>
-   </th>
-  </tr>
-  <tr>
-    <td>WEI PICTURE</td>
-    <td>
+   </tr>
+  </td>
+  <td>
+    <tr>WEI PICTURE</tr>
+    <tr>
      <a href="https://wl5.github.io/">Wei Luo</a>
-   </td>
-  </tr>
-  <tr>
-    <td>JULIAN PICTURE</td>
-    <td>
+   </tr>
+  </td>
+  <td>
+    <tr>JULIAN PICTURE</td>
+    <tr>
      <a href="https://verajulian.github.io/">Julian Vera</a>
-   </td>
-  </tr>
+   </tr>
+  </td>
 </table>
