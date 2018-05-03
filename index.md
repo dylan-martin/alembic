@@ -40,19 +40,25 @@ Users can chat over text, audio, and video to learn more about life on college c
 ### Our Team
 <table style="width:100%">
   <tr>
-    <td>DYLAN IMAGE</td>
-    <td>WEI PICTURE</td>
-    <td>JULIAN PICTURE</td>
+    <center><td>DYLAN IMAGE</td></center>
+    <center><td>WEI PICTURE</td></center>
+    <center><td>JULIAN PICTURE</td></center>
   </tr>
   <tr>
+   <center>
     <td>
-      <a href="dylan-martin.github.io">Dylan Martin</a>
+     <a href="dylan-martin.github.io">Dylan Martin</a>
     </td>
+   </center>
+   <center>
     <td>
      <a href="https://wl5.github.io/">Wei Luo</a>
-   </td>
-   <td>
+    </td>
+   </center>
+   <center>
+    <td>
      <a href="https://verajulian.github.io/">Julian Vera</a>
-   </td>
+    </td>
+   </center>
   </tr>
 </table>
