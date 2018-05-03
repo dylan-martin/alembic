@@ -60,7 +60,7 @@ Users can chat over text, audio, and video to learn more about life on college c
   <tr>
     <td>
      <center>
-     <a href="dylan-martin.github.io">Dylan Martin</a>
+     <a href="https://dylan-martin.github.io">Dylan Martin</a>
      </center>
     </td>
     <td>
