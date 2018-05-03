@@ -30,12 +30,12 @@ College Students and applicants create profiles that include their interests and
 ##### Find Potential Connections
 Applicants are matched with college students at their prospective colleges who share their interests.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2011.png" width="25%" height="25%"/>
+<center><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2011.png" width="25%" height="25%"/></center>
 
 ##### Start Conversations
 Users can chat over text, audio, and video to learn more about life on college campuses.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2016.png" width="25%" height="25%"/>
+<center><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2016.png" width="25%" height="25%"/></center>
 
 ### Our Team
 <table style="width:100%">
