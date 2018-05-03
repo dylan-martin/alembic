@@ -19,6 +19,6 @@ College Connect was inspired by a simple observation: learning about colleges is
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="img/video_prototype.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/video_prototype.mp4" type="video/mp4">
   </video>
 </figure>
