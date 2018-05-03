@@ -20,5 +20,19 @@ College Connect was inspired by a simple observation: learning about colleges is
   </video>
 </figure>
 
+### How it Works
 
-### How it works
+#### Share Personal Information
+College Students and applicants create profiles that include their interests and other basic information.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2010.png" width="30%" height="30%"/> 
+
+#### Find Potential Connections
+Applicants are matched with college students at their prospective colleges who share their interests.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2011.png" width="30%" height="30%"/>
+
+#### Start Conversations
+Users can chat over text, audio, and video to learn more about life on college campuses.
+
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2016.png" width="30%" height="30%"/>
