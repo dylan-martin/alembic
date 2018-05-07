@@ -73,4 +73,5 @@ Users can chat over text, audio, and video to learn more about life on college c
 </table>
 </center>
 
+
 <font size="4"> Feature Image Source: <a href = "https://www.usnews.com/best-colleges/williams-college-2229">https://www.usnews.com/best-colleges/williams-college-2229</a> </font>
