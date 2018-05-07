@@ -1,7 +1,7 @@
 ---
 feature_text: |
  # College Connect
- A platform to connect college applicants and students.
+ #### A platform to connect college applicants and students.
 feature_image: "img/williams.png"
 ---
 
