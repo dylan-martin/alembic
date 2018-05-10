@@ -17,13 +17,13 @@ We spoke with college students, applicants, and admissions officers to design a 
   <tr>
     <td>
       <center>
-       <a href="https://dylan-martin.github.io/college_connect/look2understand/"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/affinity_diagram.png" width="50pt" height="100pt"/></a>
+       <a href="https://dylan-martin.github.io/college_connect/look2understand/"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/affinity_diagram.png" width="100pt" height="200pt"/></a>
      </center>
     </td>
     <td>
      <center>
        <a href="https://dylan-martin.github.io/college_connect/understand2make/"> 
-        <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_welcome.png" width="50pt" height="100pt"/>
+        <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_welcome.png" width="100pt" height="200pt"/>
        </a>
      </center>
     </td>
@@ -72,7 +72,7 @@ Users can chat over text, audio, and video to learn more about life on college c
 <center>
  <object width="250" height="400" data="{{site.baseurl}}/interactive.pdf"/>
  
- <br> 
+ <br/> 
 
  <p> 
   Download an interactive pdf of our <a href="https://github.com/dylan-martin/college_connect/blob/master/interactive.pdf">Mockup</a>  </p>
