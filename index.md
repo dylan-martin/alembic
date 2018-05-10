@@ -35,6 +35,7 @@ Users can chat over text, audio, and video to learn more about life on college c
 
 ### Interactive Digital Mockup
 [Click here](/interactive.pdf) for an interactive version of our mockup.
+<embed src="/interactive.pdf" type="application/pdf" />
 
 ### Our Team
 <center>
