@@ -1,4 +1,5 @@
 ---
+title:
 feature_text: |
  # College Connect
  #### A platform to connect college applicants and students.
