@@ -11,6 +11,34 @@ College Connect was inspired by a simple observation: learning about colleges is
 ### Design Process
 We spoke with college students, applicants, and admissions officers to design a platform that is accessible to everyone.  At each step along the way, we iterated on previous designs, incorporating feedback from potential users and our own ideas to expand the services that College Connect provides and tailor our product to the needs of real people.  Take a look at our progress reports to explore our process further.
 
+<center>
+<table style="width:50%">
+  <tr>
+    <td>
+      <center>
+       <a href="{{site.baseurl}}/look2understand.md"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/affinity_diagramming.png" width="50pt" height="100pt"/></a>
+     </center>
+    </td>
+    <td>
+     <center>
+       <a href="{{site.baseurl}}/understand2make.md"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/dm_welcom.png" width="50pt" height="100pt"/></a>
+     </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     <center>
+     Looking to Understand
+     </center>
+    </td>
+    <td>
+     <center>
+     Understanding to Make
+     </center>
+    </td>
+  </tr>
+</table>
+
 ### Video Prototype
 
 <figure class="video_container">
