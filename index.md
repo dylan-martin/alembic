@@ -13,7 +13,7 @@ College Connect was inspired by a simple observation: learning about colleges is
 We spoke with college students, applicants, and admissions officers to design a platform that is accessible to everyone.  At each step along the way, we iterated on previous designs, incorporating feedback from potential users and our own ideas to expand the services that College Connect provides and tailor our product to the needs of real people.  Take a look at our progress reports to explore our process further.
 
 <center>
-<table style="width:50%">
+<table style="width:75%">
   <tr>
     <td>
       <center>
@@ -41,6 +41,7 @@ We spoke with college students, applicants, and admissions officers to design a 
     </td>
   </tr>
 </table>
+</center>
 
 ### Video Prototype
 
