@@ -16,12 +16,12 @@ We spoke with college students, applicants, and admissions officers to design a 
   <tr>
     <td>
       <center>
-       <a href="https://raw.githubusercontent.com/dylan-martin/college_connect/master/look2understand"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup//img/affinity_diagramming.png" width="50pt" height="100pt"/></a>
+       <a href="https://dylan-martin.github.io/college_connect/look2understand/"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup//img/affinity_diagramming.png" width="50pt" height="100pt"/></a>
      </center>
     </td>
     <td>
      <center>
-       <a href="https://raw.githubusercontent.com/dylan-martin/college_connect/master/understand2make"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/img/dm_welcom.png" width="50pt" height="100pt"/></a>
+       <a href="https://dylan-martin.github.io/college_connect/understand2make/"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/img/dm_welcome.png" width="50pt" height="100pt"/></a>
      </center>
     </td>
   </tr>
