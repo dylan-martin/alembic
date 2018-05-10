@@ -22,8 +22,8 @@ We spoke with college students, applicants, and admissions officers to design a 
     </td>
     <td>
      <center>
-       <a href="https://dylan-martin.github.io/college_connect/understand2make/"> 
-        <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/u2m_thumb.png" width="80%" height="80%/>
+       <a href="https://dylan-martin.github.io/college_connect/look2understand/"> 
+        <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/u2m_thumb.png" width="80%" height="80%"/>
        </a>
      </center>
     </td>
