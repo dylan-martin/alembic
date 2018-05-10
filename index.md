@@ -17,7 +17,7 @@ We spoke with college students, applicants, and admissions officers to design a 
   <tr>
     <td>
       <center>
-       <a href="https://dylan-martin.github.io/college_connect/look2understand/"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/affinity_diagramming.png" width="50pt" height="100pt"/></a>
+       <a href="https://dylan-martin.github.io/college_connect/look2understand/"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/affinity_diagram.png" width="50pt" height="100pt"/></a>
      </center>
     </td>
     <td>
