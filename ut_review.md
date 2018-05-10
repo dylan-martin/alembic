@@ -3,6 +3,7 @@ title: Usability Testing Review
 layout: page
 ---
 
+
 ### Participants
 * John: A current senior at Williams College studying geosciences.  John is a member of the Williams College mens rugby team and actively participates in the Williams Outdoors Club.  He has spoken with personal aquiantences about the college search process and his experience in college throughout his Williams career.
 
@@ -29,14 +30,14 @@ _Severity Rating_: 4
 
 While we present a log in option in the opening screen, we did not support its functionality.  To resolve this, we added a screen, which comes before a new users is prompted to select their user type, which allows them to create a username and password for future access.  Additionally, we added a log in screen which will direct users to their current conversations page upon the entry of their previously set username and password.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof2.png" width="250" height="400"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login2.png" width="250" height="400"/>
 
 #### Privacy concerns over video/audio calls.
 _Severity Rating_: 3
 
 Jane was concerned with privacy on the app.  As it is currently designed, it is not obvious what actions a user can take if another person sends a audio/video call request.  To resolve this, we add a accept/decline interface for the user.  The user can press "accept" to accept the call, or press "decline" to decline the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_accept.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_accept.jpg" width="250" height="400"/>
 
 #### Inability to search through potential connections list.
 _Severity Rating_: 2
@@ -45,13 +46,13 @@ Users should be better able to search for people with particular attributes in t
 
 Before:
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections.jpeg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/revised_potential_connections2.png" width="250" height="400"/>
 
 After: 
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_connections.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wl_connections2.png" width="250" height="400"/>
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_search.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wl_search2.png" width="250" height="400"/>
 
 ### Important Revisions
 The revisions that we consider the most important include:
@@ -72,73 +73,73 @@ The revisions that we consider the most important include:
 
 Upon first opening the College Connect app, users are presented with a simple welcome screen.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_welcome.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/new_welcome_page.png" width="250" height="400"/>
 
 If the user has already created a College Connect profile, they will log in and be directed to their "Conversations" page:
 
- <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login.png" width="40%" height="40%"/>
+ <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_login2.png" width="250" height="400"/>
 
 If this is a new user, they will select "New User" and will be directed to a screen allowing them to designate a username and a password: 
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_mkprof2.png" width="250" height="400"/>
 
 After the user presses "done", they are redirected to a page that lets them choose their user type.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_select.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/new_select_page.png" width="250" height="400"/>
 
 After the user selects the appropriate type, they will be directed to their personal profile screen, where they can share basic information about themselves.  The screen will be slightly different for current college students (left) and applicants (right)  This information includes their name, school (college students) or prospective schools (college applicants), class year, home town, interests, and a short personal bio.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp1.png" width="40%" height="40%"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp2.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp1.png" width="250" height="400"/> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/dm_pp2.png" width="250" height="400"/>
 
 After they complete their profile and press the "done" button, they will be directed to this screen, which will guide them to the potential connections page.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/he4_2.png" width="250" height="400"/>
 
 ### Find Users with Similar Interests
 
 Once the user has input their interests, they will see a list of either college or applicant students with similar interests. They can then select someone to learn more about them and other shared information. 
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_connections.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wl_connections2.png" width="250" height="400"/>
 
 After they have selected a student, they can decide to initiate a conversation and/or learn more about others using the back button.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/potential_connection_profile.png" width="250" height="400"/>
 
 The user can also press "search" on the list of people page for a more customized search.  
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_search.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/img/wl_search2.png" width="250" height="400"/>
 
 ### Start Conversations
 
 The user can press the “conversation” tab to navigate to the conversation interface. This interface shows the user’s conversations with other users, order by recent messages. The user can press the tab with the person’s name to begin chatting with that person.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_1.png" width="250" height="400"/>
 
 This interface allows the user to chat with another user. At the top-left corner, the back arrow takes the user back to the previous page. The name of the person with whom the user is chatting is displayed at the top. At the top-right corner are options for audio call and video call.  Messages are shown in the main body of the interface, with the other person’s messages on the right. At the bottom, the user can enter a message and press “send” to send.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_chat_revise.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_chat_revise.png" width="250" height="400"/>
 
 Sent message.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_1.png" width="250" height="400"/>
 
 Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_2.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_2.png" width="250" height="400"/>
 
 Sample audio call. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_3.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_revise_3.png" width="250" height="400"/>
 
 Interface after pressing the audio call button. Waits for the other side to accept the request. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_4.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_4.png" width="250" height="400"/>
 
 Sample video call. The user can press “End Call” to end the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_5.png" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wei_5.png" width="250" height="400"/>
 
 The other person can choose to accept or deline the call.
 
-<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_accept.jpg" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/wl_accept.jpg" width="250" height="400"/>
 
