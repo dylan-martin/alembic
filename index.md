@@ -74,7 +74,7 @@ Users can chat over text, audio, and video to learn more about life on college c
  
  <br/> 
 
-   <p>Download an interactive pdf of our</p> <a href="https://github.com/dylan-martin/college_connect/blob/master/interactive.pdf">Mockup</a>
+   <p>Download an interactive pdf of our</p> <a href="https://github.com/dylan-martin/college_connect/blob/master/interactive.pdf">mockup.</a>
 </center>
 
 ### Our Team
