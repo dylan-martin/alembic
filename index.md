@@ -22,7 +22,9 @@ We spoke with college students, applicants, and admissions officers to design a 
     </td>
     <td>
      <center>
-       <a href="https://dylan-martin.github.io/college_connect/understand2make/"> <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/img/dm_welcome.png" width="50pt" height="100pt"/></a>
+       <a href="https://dylan-martin.github.io/college_connect/understand2make/"> 
+        <img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/img/dm_welcome.png" width="50pt" height="100pt"/>
+       </a>
      </center>
     </td>
   </tr>
@@ -67,7 +69,7 @@ Users can chat over text, audio, and video to learn more about life on college c
 
 ### Interactive Digital Mockup
 <center>
- <object width="250" height="400" data="{{site.baseurl}}/interactive.pdf">
+ <object width="250" height="400" data="{{site.baseurl}}/interactive.pdf"/>
  
  <br> 
 
