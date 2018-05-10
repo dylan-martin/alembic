@@ -34,9 +34,9 @@ Users can chat over text, audio, and video to learn more about life on college c
 <center><img src="https://raw.githubusercontent.com/dylan-martin/college_connect/master/mockup/New%20Mockup%2016.png" width="25%" height="25%"/></center>
 
 ### Interactive Digital Mockup
-[Click here](/interactive.pdf) for an interactive version of our mockup.
-<object width="400" height="770" data="{{site.baseurl}}/interactive.pdf"></object>
-
+<center>
+<object width="300" height="500" data="{{site.baseurl}}/interactive.pdf"></object>
+</center>
 ### Our Team
 <center>
 <table style="width:100%">
