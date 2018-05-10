@@ -5,8 +5,11 @@ feature_text: |
 feature_image: "img/williams.png"
 ---
 
+### Overview
 College Connect was inspired by a simple observation: learning about colleges is hard.  For many applicants, commonly available resources, such as college admissions offices and campus tours, do not provide the type of in-depth information about campus culture and activities that are often most helpful when searching for and selecting a college.  Through College Connect, an app connecting college applicants to students at the schools they are interested in, we hope to make this information available to everyone on a comfortable and reliable platform.  Our app allows applicants to share personal information and interests, and suggests students at their prospective colleges who share these interests.  This platform facilitates personal conversations between users to help spread genuine and useful information for the college search process.  Read our [project proposal](/grpproposal.md) to learn more.
 
+### Design Process
+We spoke with college students, applicants, and admissions officers to design a platform that is accessible to everyone.  At each step along the way, we iterated on previous designs, incorporating feedback from potential users and our own ideas to expand the services that College Connect provides and tailor our product to the needs of real people.  Take a look at our progress reports to explore our process further.
 
 ### Video Prototype
 
